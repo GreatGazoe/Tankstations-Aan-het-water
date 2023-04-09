@@ -1,0 +1,3962 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="OpenCPN" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd" xmlns:opencpn="http://www.opencpn.org">
+  <wpt lat="53.061670000" lon="5.518090000">
+    <time>2023-04-06T15:02:35Z</time>
+    <name>Texaco - de Kroon</name>
+    <desc>Tankstation de Kroon, Stoombootkade 30, 8701 KA Bolsward
+Diesel, Benzine, Jerrycan
+Direct aan het water
+24h open
+Tel: 0515 - 572139</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>19ce9b11-2055-4343-8735-08c44c9559fd</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.848010000" lon="6.342310000">
+    <time>2023-04-06T21:19:18Z</time>
+    <name>Argos</name>
+    <desc>Argos, Rijksweg 1, 7984 ND Dieverbrug
+Aanleggen bij brug, 110 meter
+Diesel, Benzine, Jerrycan
+24h open (PIN)
+Tel: 0521 - 591285
+</desc>
+    <link href="https://www.argos.nl/tankstation/argos-dieverbrug/">
+      <text>https://www.argos.nl/tankstation/argos-dieverbrug/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>79d48b26-3358-4b33-8bcb-287419f013f1</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.189180000" lon="5.992300000">
+    <time>2023-04-06T16:37:02Z</time>
+    <name>BP Express</name>
+    <desc>BP Express, Meester W.M. Oppedijk van Veenweg 2, 9251 GA Burgum
+Aanleggen passantenhaven Bergumermeer, 200 meter
+24h open
+Diesel, Benzine, Jerrycan
+Tel: 0800 - 2727270</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/burgum/bp-express-burgum/768609446">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/burgum/bp-express-burgum/768609446</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5ff9416c-f875-487b-96cf-a5131755c539</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.167240000" lon="4.710690000">
+    <time>2023-04-06T11:00:59Z</time>
+    <name>BP Express Ter Aar</name>
+    <desc>BP Express Ter Aar, Westkanaalweg 106
+10 meter van de Wal, 24h geopend
+Diesel, Benzine, Jerrycan
+Tel: 0800 - 2727270</desc>
+    <link href="https://www.bp.com/nl_nl/on-the-road/netherlands.html">
+      <text>https://www.bp.com/nl_nl/on-the-road/netherlands.html</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3bf99205-666c-493b-ac4a-5e9874a299df</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.688490000" lon="5.243150000">
+    <time>2023-04-06T16:07:10Z</time>
+    <name>BP-BovenKarspel</name>
+    <desc>BP-BovenKarspel, Florasingel 1, 1611 GA Bovenkarspel
+Aanleggen bij WSV - De Broekerhaven, 500 meter
+Diesel, Benzine, Jerrycan
+Tel: 0228 - 513655</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/bovenkarspel/bp-flora/4642">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/bovenkarspel/bp-flora/4642</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6b7e9ed4-d6de-4c98-978d-f28b2289fcec</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.369030000" lon="4.970460000">
+    <time>2023-04-06T21:14:47Z</time>
+    <name>BP-Kriterion</name>
+    <desc>BP-Kriterion, IJburglaan 11, 1095 KG Amsterdam
+Diesel, Benzine, Jerrycan
+24h open (PIN)
+Tel: 020 - 6948811
+</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>41520809-73c3-4af9-915e-90d035792ba7</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.265940000" lon="6.131250000">
+    <time>2023-04-06T21:07:27Z</time>
+    <name>DCO-Kroon</name>
+    <desc>DCO - de Kroon, Rubensstraat 10, 7412 GZ Deventer
+Aanleggen jachthaven Deventer, 150 meter
+Diesel, Benzine, Jerrycan
+Tel: 0570 - 618811
+
+</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>774bce63-da82-4e3e-a81d-dd4576b0b0d0</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.021880000" lon="5.210470000">
+    <time>2023-04-06T15:16:03Z</time>
+    <name>Esso Breezanddijk</name>
+    <desc>Esso Brrezanddijk, Afsluitdijk 1, A7, 8766 TS Breezanddijk
+Aanleggen vluchthaven Noord of Zuid
+Diesel, Benzine, Jerrycan
+24h open</desc>
+    <link href="http://www.esso.nl/">
+      <text>http://www.esso.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1b88f19c-be84-408c-9649-72cd08403c02</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.877700000" lon="5.182710000">
+    <time>2023-04-06T20:15:57Z</time>
+    <name>Esso Express</name>
+    <desc>Esso Express, Provincialeweg West 9, 4156 Rumpt
+Aanleggen vlakbij brug Dorpsdijk, 500 meter
+24h open
+Diesel, Benzine, Jerrycan
+Tel: 088 - 0123600</desc>
+    <link href="http://www.esso.nl/">
+      <text>http://www.esso.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>68504bfc-349d-41cd-bfa6-862e2b9b7c35</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.824960000" lon="4.686510000">
+    <time>2023-04-06T21:49:34Z</time>
+    <name>Esso Express</name>
+    <desc>Esso Express, Bosch 58, 3353 GE Papendrecht
+Aanleggen WSV Papendrecht, 150 meter
+Diesel, Benzine, Jerrycan
+PIN 
+</desc>
+    <link href="http://www.essofuelfinder.nl/">
+      <text>http://www.essofuelfinder.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4f70b052-773f-40c2-a1ea-ebba79b119ec</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.952720000" lon="4.776320000">
+    <time>2023-04-06T20:49:47Z</time>
+    <name>Essso</name>
+    <desc>Essso, Ruyghweg 200, 1781 BG Den Helder
+Aanleggen steiger Binnenhaven, 200 meter
+Diesel, Benzine
+Tel: 022 - 3614500
+
+</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4c2db126-9897-4d40-a72b-98cf5e3b2b7c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.958910000" lon="6.286120000">
+    <time>2023-04-06T21:37:35Z</time>
+    <name>Fieten Olie</name>
+    <desc>Fieten Olie, Wijnbergseweg 39, 7006 AH Doetinchem
+Aanleggen na brug
+Diesel, Benzine, Jerrycan
+24h open
+Tel: 0314 - 340000
+</desc>
+    <link href="https://www.fieten.info/tankstations/doetinchem/">
+      <text>https://www.fieten.info/tankstations/doetinchem/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7bc6147a-c143-4056-8ed4-52dc7a5995d6</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.745430000" lon="5.221510000">
+    <time>2023-04-06T12:30:46Z</time>
+    <name>Jachthaven Ammerzoden</name>
+    <desc>Jachthaven Ammerzoden, Molendijk 1, 5324 BC Ammerzoden
+Benzine
+Tel: 073 - 5994428</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>12f34e16-4945-439c-8f0e-d10d37eba94e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.746200000" lon="5.185010000">
+    <time>2023-04-06T13:14:51Z</time>
+    <name>Jachthaven Andijk</name>
+    <desc>Jachthaven Andijk, Nieuwe Haven 1, 1619 JW Andijk
+Diesel
+Tel: 0228 - 593075</desc>
+    <link href="http://www.jachthavenandijk.nl/">
+      <text>http://www.jachthavenandijk.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4cdde30d-3f45-4403-a2bc-181214688c7a</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.395760000" lon="3.570560000">
+    <time>2023-04-06T15:20:59Z</time>
+    <name>Jachthaven Breskens</name>
+    <desc>Jachthaven Breskens, Oosthavendam 3, 4511 AZ Breskens
+Zuidelijke golfbreker ingang Jachthaven
+Diesel, Benzine 
+VHF 31
+Tel: 0117 - 381902</desc>
+    <link href="http://www.jachthavenbreskens.nl/">
+      <text>http://www.jachthavenbreskens.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>625da4e9-7ea2-4ecf-9cdf-5117018c551f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.730060000" lon="3.913300000">
+    <time>2023-04-06T16:25:20Z</time>
+    <name>Jachthaven Brouwershaven</name>
+    <desc>Jachthaven Brouwershaven, Nieuwe Jachthaven 12, 4318 AR Brouwershaven
+Aanleggen aan brandstofsteiger (9:00 - 12:00)
+Diesel, GTL
+VHF 31
+Tel: 0111 - 691330</desc>
+    <link href="http://www.wvbrouwershaven.nl/">
+      <text>http://www.wvbrouwershaven.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6dfa3242-1ebc-450c-b5a9-054e6a901ad3</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.671870000" lon="4.083390000">
+    <time>2023-04-06T16:30:08Z</time>
+    <name>Jachthaven Bruinisse</name>
+    <desc>Jachthaven Bruinisse, Jachthavenweg 61D, 4311 NC Bruinisse
+Diesel
+Tel: 0111 - 481485</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5a182439-9460-40ae-9d74-cf546c560067</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.101710000" lon="6.045510000">
+    <time>2023-04-06T22:06:14Z</time>
+    <name>Jachthaven de Drait</name>
+    <desc>Jachthaven de Drait, Buitenstvallaat 2, 9204 WX Drachten
+Naast havengebouw
+Benzine, GTL
+Zondag beperkte openingstijden
+Tel: 0512 - 513276
+
+</desc>
+    <link href="http://jachthavendedrait.nl/">
+      <text>http://jachthavendedrait.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3de9e5d3-01fd-4ca8-b3c2-ecff4097a977</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.624150000" lon="4.257820000">
+    <time>2023-04-06T14:10:48Z</time>
+    <name>Jachthaven de Vlije</name>
+    <desc>Jachthaven de Vlije, Beneden Sasweg 6A, 4655 ST De Heen
+Diesel
+Tel: 0167 - 502914</desc>
+    <link href="http://www.jachthavendevlije.nl/">
+      <text>http://www.jachthavendevlije.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>474f7a71-10d8-47df-81c1-062e2df0d4e0</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.734827168" lon="5.920646255">
+    <time>2023-04-06T20:06:55Z</time>
+    <name>Jachthaven Eldorado</name>
+    <desc>Jachthaven Eldorado, Witteweg 9, 6586 AD Plasmolen
+Diesel, Benzine
+Tel: 024 - 6962366</desc>
+    <link href="http://jachthaveneldorado.nl/">
+      <text>http://jachthaveneldorado.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>07c0267a-9304-4b8e-95ea-7a535307e038</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.238826667" lon="4.749976667">
+    <time>2023-04-06T10:54:11Z</time>
+    <name>Jachthaven Kudelstaart</name>
+    <desc>Jachthaven Kudelstaart, Kudelstaartseweg 226
+Toegang tot pomp via zuidelijke invaart.
+Diesel, Benzine
+Tel: 0297 - 745580</desc>
+    <link href="http://www.jachthavenkudelstaart.nl/">
+      <text>http://www.jachthavenkudelstaart.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0afcbf2f-0d4c-4606-8dab-a74467e285ba</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.510240000" lon="3.702280000">
+    <time>2023-04-06T13:22:10Z</time>
+    <name>Jachthaven Oranjeplaat</name>
+    <desc>Jachthaven Oranjeplaat, Muidenweg 4, 4341 PZ Arnemuiden
+Diesel
+Tel: 0118 - 601248
+</desc>
+    <link href="https://www.jachthavenoranjeplaat.nl/">
+      <text>https://www.jachthavenoranjeplaat.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4471a1ea-6b5a-4b82-a032-bbc219f3e6db</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.255920000" lon="4.716720000">
+    <time>2023-04-06T10:31:14Z</time>
+    <name>Jachthaven Stenhuis</name>
+    <desc>Jachthaven Stenhuis, Uiterweg 417a.
+Ringvaart Haarlemmermeer bij Westeinderplassen.
+Staande mast route.
+Diesel (met XMILE)
+Tel: 0297 – 32 50 81</desc>
+    <link href="http://www.jachthavenstenhuis.nl/">
+      <text>http://www.jachthavenstenhuis.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5a57ba89-2a96-446f-b9ed-f52e11f55d2b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.050320000" lon="5.827580000">
+    <time>2023-04-06T11:12:36Z</time>
+    <name>Jachtwerf Oost</name>
+    <desc>Jachtwerf Oost, Ljouwerterdyk 37, 8491 GB Akkrum
+Diesel
+Tel: 0566 - 651632
+
+</desc>
+    <link href="http://www.jachtwerfoost.nl/">
+      <text>http://www.jachtwerfoost.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4fabbbea-bb84-4478-b1f1-45463bb852c0</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.924620000" lon="5.045740000">
+    <time>2023-04-06T20:58:42Z</time>
+    <name>Marina den Oever</name>
+    <desc>Marina den Oever, Noorderdijkweg 25a, 1771 MJ Wieringerwerf
+Diesel
+Tel: 0227 - 511789</desc>
+    <link href="https://www.marinadenoever.nl/">
+      <text>https://www.marinadenoever.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0b219aaf-1324-4286-a647-54545383e80a</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.383685000" lon="4.945315000">
+    <time>2023-04-06T12:48:39Z</time>
+    <name>Reinplus Fiwado</name>
+    <desc>Reinplus Fiwado, Nieuwendammerdijk 526-S, 1023 BX Amsterdam
+Zondag gesloten
+Diesel
+Tel: 020 - 6321166
+</desc>
+    <link href="https://www.reinplusfiwado.com/nl/bunkerlocaties/amsterdam-steiger-reinplus/">
+      <text>https://www.reinplusfiwado.com/nl/bunkerlocaties/amsterdam-steiger-reinplus/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>345ce58f-2161-4057-8e6a-93f44ec2e654</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.373900000" lon="4.956440000">
+    <time>2023-04-06T12:34:28Z</time>
+    <name>Slurink Bunkerstation</name>
+    <desc>Slurink Bunkerstation, Zuider IJdijk 100A, 1095 KN Amsterdam
+24h service
+Diesel
+VHF 82
+Tel: 020 - 6941137
+</desc>
+    <link href="https://www.slurink.nl/netwerk/amsterdam/">
+      <text>https://www.slurink.nl/netwerk/amsterdam/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1c42be15-37ba-4d7e-adfc-f4695ab1af29</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.457530000" lon="5.694910000">
+    <time>2023-04-06T14:29:19Z</time>
+    <name>SuperTank </name>
+    <desc>SuperTank, Baan 43, 8256 BD Biddinghuizen
+Aanleggen Jachthaven Biddinghuizen 400 meter richting Swifterweg
+24h open
+Diesel, Benzine, Jerrycan
+Tel: 0321 - 332863</desc>
+    <link href="http://www.wsv-biddinghuizen.nl/">
+      <text>http://www.wsv-biddinghuizen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5f86ad8b-a126-4ce8-a340-b1c350bf1567</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.915880000" lon="4.189690000">
+    <time>2023-04-06T15:47:35Z</time>
+    <name>Tango Europoort</name>
+    <desc>Tango Europoort, Europaweg 200, 3198 LD Europoort Rotterdam
+Aanleggen in de petroleumhaven
+Diesel, Benzine, Jerrycan
+24h open
+Tel: 070 - 3152500</desc>
+    <link href="https://www.tango.nl/stations/tango-europoort/">
+      <text>https://www.tango.nl/stations/tango-europoort/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>013c064a-128c-480e-b9d0-189b47e0b69e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.729160000" lon="5.957000000">
+    <time>2023-04-06T14:46:40Z</time>
+    <name>Tank S</name>
+    <desc>Tank S, Steenwijkerweg 1, 8356 VM Blokzijl
+Aanleggen bij de Havenkolk Blokzijl 200 meter
+Diesel, Benzine, Jerrycan
+24h (PIN)
+Tel: 0527 - 291362</desc>
+    <link href="https://www.staveren.nl/">
+      <text>https://www.staveren.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0f92cd1c-8aa2-4240-ba7b-0bd46f27cf61</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.909060000" lon="4.563040000">
+    <time>2023-04-06T14:55:18Z</time>
+    <name>Terlouw Oliehandel</name>
+    <desc>Terlouw Oliehandel Bunkerstation, Nijverheidstraat 20, 2901 AR Capelle aan den IJssel
+Diesel
+Tel: 010 - 4508023
+</desc>
+    <link href="http://www.oliehandel-terlouw.nl/">
+      <text>http://www.oliehandel-terlouw.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6bef9ae0-60e9-4247-a671-1a2753b0ca34</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.994760000" lon="4.361340000">
+    <time>2023-04-06T20:25:07Z</time>
+    <name>TinQ</name>
+    <desc>TinQ, Vulcanusweg 281, 2624 AV Delft
+vanaf de kade 400 meter
+24h open
+Diesel, Benzine, Jerrycan
+</desc>
+    <link href="https://www.tinq.nl/tankstation?id=409">
+      <text>https://www.tinq.nl/tankstation?id=409</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7d0462ea-42ac-4f07-8565-967d0ecba9c6</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.441130000" lon="5.773050000">
+    <time>2023-04-06T11:57:09Z</time>
+    <name>Total Energie</name>
+    <desc>Total Energie, Reeweg 1, 9163 GT Nes
+350 meter Jachthaven Ameland, 24h geopend
+Diesel
+Tel: 0519 - 542300</desc>
+    <link href="http://www.autobedrijfmetz.nl/">
+      <text>http://www.autobedrijfmetz.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7e7435d4-b8f7-4501-86e8-2c2052f8a73f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.708700000" lon="4.815530000">
+    <time>2023-04-06T22:12:13Z</time>
+    <name>WSV Biesbosch</name>
+    <desc>WSV Biesbosch, Nieuwe Jachthaven 57, 4924 BA Drimmelen
+Diesel
+Tel: 0162 - 682264</desc>
+    <link href="http://www.wsvbiesbosch.nl/">
+      <text>http://www.wsvbiesbosch.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4bd46fbd-3fdc-45e2-b3e6-119d5f4948d5</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.527840000" lon="5.710240000">
+    <time>2023-04-06T22:18:32Z</time>
+    <name>WSV Dronten</name>
+    <desc>WSV Dronten, Watersportkade 2, 8253 ZC Dronten
+GLT
+Tel: 0321 - 337879</desc>
+    <link href="https://www.havenvandronten.nl/">
+      <text>https://www.havenvandronten.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>345fd47a-ab97-41f3-8823-92b514933d2b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.361729902" lon="4.963710956">
+    <time>2023-04-06T13:03:54Z</time>
+    <name>WSV het nieuwe Diep</name>
+    <desc>WSV het nieuwe Diep, Diemerzeedijk 7, 1095 KK Amsterdam
+Maandag gesloten
+Diesel, Benzine
+Tel: 020 - 6652504
+
+</desc>
+    <link href="http://wsvhetnieuwediep.blogspot.com/">
+      <text>http://wsvhetnieuwediep.blogspot.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c2a9358-6502-4d5d-b09c-4adb2f500186</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.331075000" lon="6.931271667">
+    <time>2023-04-06T20:29:46Z</time>
+    <name>ZeilverenigingNeptunes</name>
+    <desc>Zeilvereniging Neptunes, Handelskade West 7, 9934 AA Delfzijl
+Diesel (9:00 - !8:00)
+Tel: 06 - 12386446
+</desc>
+    <link href="https://www.zv-neptunus.nl/">
+      <text>https://www.zv-neptunus.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>279c5985-ea54-45d7-9895-a2870820cd15</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.246640000" lon="4.757750000">
+    <time>2023-04-06T10:43:00Z</time>
+    <name>Zethof Olie Gashandel</name>
+    <desc>Zethof Olie Gashandel, Kudelstaartseweg 117
+Aanleg bij jachthaven 'Het Fort van Kudelstaart'
+Diesel, Jerrycan
+Tel: 0297 - 326097</desc>
+    <link href="http://www.zethofgasvulstation.nl/">
+      <text>http://www.zethofgasvulstation.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>48d67b0a-36b7-40ce-8657-ea8a37d71e99</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.129170000" lon="5.939010000">
+    <time>2023-04-07T06:38:12Z</time>
+    <name>Wester Watersport</name>
+    <desc>Wester Watersport, Wiidswei 9 a, 9264 TL Earnewald
+Diesel, Benzine, GTL, 2-takt
+24h open (Straatzijde)
+Tel: 0511 - 539243</desc>
+    <link href="http://www.bootverhuurwester.nl/">
+      <text>http://www.bootverhuurwester.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>49d12a3c-781c-44b1-b42a-c98443a77a7e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.707230000" lon="6.406780000">
+    <time>2023-04-07T06:44:49Z</time>
+    <name>Tamoil - Echten</name>
+    <desc>Tamoil, Echtenseweg 13, 7909 HV Hoogeveen
+Diesel, Benzine, Jerrycan
+24h open (PIN)
+Tel: 088 - 4007300</desc>
+    <link href="https://tamoil.nl/">
+      <text>https://tamoil.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2dbabda5-2e52-4660-9cec-44b07f76a95d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.488460000" lon="5.064990000">
+    <time>2023-04-07T07:04:29Z</time>
+    <name>Marina Volendam</name>
+    <desc>Marina Volendam, Pieterman 12, 1131 PW Volendam
+Diesel (TRAXX)
+Tel: 0299 - 320262
+</desc>
+    <link href="http://www.marinavolendam.nl/">
+      <text>http://www.marinavolendam.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>26e2eac6-fe63-468d-be1a-801943e9defd</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.444840000" lon="6.809280000">
+    <time>2023-04-07T07:13:58Z</time>
+    <name>Texaco</name>
+    <desc>Texaco, Westereemsweg 1, 9979 XP Eemshaven
+Aanleggen in de Emmahaven
+Diesel, Benzine, Jerrycan
+24h open (PIN)
+Tel: 0800 - 4446676</desc>
+    <link href="https://www.texaco.nl/">
+      <text>https://www.texaco.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2992934f-bc77-4f75-a634-24274de60763</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.873900000" lon="5.821190000">
+    <time>2023-04-07T06:49:46Z</time>
+    <name>Jachthaven de Merenpoort</name>
+    <desc>Jachthaven de Merenpoort, Hellingpad 16, 8539 SW Echtenerbrug
+Diesel(TRAXX), Benzine, 2-takt, Jerrycan
+Zondag beperkt open
+Tel: 0514 - 541463</desc>
+    <link href="http://www.merenpoort.com/">
+      <text>http://www.merenpoort.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>362979a7-1405-4cda-be86-c9c87eaf3546</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.442160000" lon="5.425120000">
+    <time>2023-04-07T07:19:04Z</time>
+    <name>Jachthaven Beatrix</name>
+    <desc>Jachthaven Beatrix, Welschapsedijk 209, 5657 BA Eindhoven
+Dieselpomp staat bij de kraan
+Diesel, Flessengas
+Tel: 040 - 2572120</desc>
+    <link href="https://www.ejvbeatrix.nl/">
+      <text>https://www.ejvbeatrix.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2f890466-edab-431b-ba1c-b97b0b57dd93</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.313890000" lon="6.352310000">
+    <time>2023-04-07T07:23:18Z</time>
+    <name>Jachthaven de Waterwolf</name>
+    <desc>Jachthaven de Waterwolf, Teenstraweg 4, 9885 TA Lauwerzijl
+Diesel
+Tel: 06 - 53835091</desc>
+    <link href="http://www.dewaterwolf.nl/">
+      <text>http://www.dewaterwolf.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>04a449de-fe2a-459d-b512-b27759b2effe</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.703090000" lon="5.297910000">
+    <time>2023-04-07T07:37:05Z</time>
+    <name>Compagnieshaven Enkhuizen</name>
+    <desc>Compagnieshaven Enkhuizen, Compagnieshaven 7, 1601 ZA Enkhuizen
+Diesel, Benzine, GTL
+Tel: 0228 - 313353</desc>
+    <link href="http://www.compagnieshaven.nl/">
+      <text>http://www.compagnieshaven.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4c3f3501-7c40-40c4-a57a-6752327dcdec</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.220740000" lon="6.870390000">
+    <time>2023-04-07T07:47:21Z</time>
+    <name>Shell - </name>
+    <desc>Shell, Parkweg 98, 7545 MV Enschede
+Aanleggen in de Handelshaven, 500 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0900 - 2022720</desc>
+    <link href="https://find.shell.com/nl/fuel/10030762-shell-express-parkweg">
+      <text>https://find.shell.com/nl/fuel/10030762-shell-express-parkweg</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4a263dd5-e76a-4cce-a7a3-ec44671c8eb2</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.316870000" lon="5.564600000">
+    <time>2023-04-07T07:53:13Z</time>
+    <name>Jachthaven Strand Horst</name>
+    <desc>Jachthaven Strand Horst, Palmbosweg 18, 3853 LB Ermelo
+Diesel, Benzine
+VHF 31
+Tel: 0341 - 561333</desc>
+    <link href="http://www.strandhorst.com/">
+      <text>http://www.strandhorst.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6c3b6ff9-106d-4a05-b7fd-8d207908366b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.472847618" lon="4.373504092">
+    <time>2023-04-06T15:32:22Z</time>
+    <name>Esso </name>
+    <desc>Esso van Oordmaarssen, Straatweg 1, 3604 BA Maarssen
+Diesel, Benzine, Jerrycan
+24h open
+Tel: 0346 - 213144</desc>
+    <link href="https://www.esso.nl/nl-nl/find-station/ESSO-MAARSSEN-VANOORDMAARSSENBV-100175520?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb">
+      <text>https://www.esso.nl/nl-nl/find-station/ESSO-MAARSSEN-VANOORDMAARSSENBV-100175520?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>28a6c146-6b3f-4a7a-848b-adbd26647184</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.178340000" lon="5.523350000">
+    <time>2023-04-07T08:04:04Z</time>
+    <name>TanQyou Franeker</name>
+    <desc>TanQyou Franeker, De Wieken 2, 8801 RA Franeker
+Aanleggen kade vlakbij brug, 250 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 088 - 1009800
+</desc>
+    <link href="https://www.tanqyou.com/tankstation-franeker/">
+      <text>https://www.tanqyou.com/tankstation-franeker/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0d0bd1fb-469b-48c0-a345-1e5d4c7ddf5d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.904300000" lon="5.469640000">
+    <time>2023-04-07T08:10:59Z</time>
+    <name>Jachthaven Kuilart</name>
+    <desc>Jachthaven Kuilart, De Kuilart 1, 8723 CG Koudum
+Diesel, Benzine
+Tel: 0514 - 522221</desc>
+    <link href="https://www.kuilart.nl/watersport/jachthaven/voorzieningen/">
+      <text>https://www.kuilart.nl/watersport/jachthaven/voorzieningen/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2b7b7832-d0d4-4c61-af4d-fd256adcccfd</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.884240000" lon="5.285920000">
+    <time>2023-04-07T08:23:53Z</time>
+    <name>WSV Achter ´t Veer</name>
+    <desc>WSV Achter ´t Veer, Lingepark, Achter 't Veer 4, 4191 AD Geldermalsen
+Diesel
+Tel: 06 - 43140683</desc>
+    <link href="https://www.wsvachtertveer.com/">
+      <text>https://www.wsvachtertveer.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>77e30fcf-13ca-41b3-8724-7bb77fe2f42a</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.994717693" lon="6.061237404">
+    <time>2023-04-07T08:32:43Z</time>
+    <name>WSV Giesbeek</name>
+    <desc>WSV Giesbeek, Havenweg 4, 6987 EP Giesbeek
+ via kopse kanten van de steigers varen
+GTL(Diesel)
+Tel: 0313 - 631434
+
+</desc>
+    <link href="http://www.wsvgiesbeek.nl/">
+      <text>http://www.wsvgiesbeek.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>11280b16-08d8-41d5-bc4f-fa962fe3f8ea</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.985710000" lon="6.026160000">
+    <time>2023-04-07T08:37:12Z</time>
+    <name>Sakko Tankstation</name>
+    <desc>Sakko Tankstation, Koestraat 5, 6988 AA Lathum
+Aanmeren stijger Bandijk, 300 meter
+Diesel, Benzine
+24h open (PIN)
+</desc>
+    <link href="https://www.sakkocommercial.nl/node/292">
+      <text>https://www.sakkocommercial.nl/node/292</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4a1d02c7-18f4-48c3-aae9-45256d53282f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.721050000" lon="6.077580000">
+    <time>2023-04-07T08:42:12Z</time>
+    <name>AVIA Giethoorn</name>
+    <desc>AVIA Giethoorn, Beulakerweg 137, 8355 AG Giethoorn
+Diesel, Benzine
+24h open (PIN)
+Tel: 088 - 1344000</desc>
+    <link href="https://avia.nl/tankstations/detail/avia-giethoorn/">
+      <text>https://avia.nl/tankstations/detail/avia-giethoorn/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1b6fa592-424b-405f-bea6-eb142d51760d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.517240000" lon="3.995280000">
+    <time>2023-04-07T08:54:50Z</time>
+    <name>Agri Sneltank</name>
+    <desc>Agri Sneltank, Dorpsplein 6, 4424 CA Wemeldinge
+via jachthaven Wemeldinge, 500 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0113 - 629000</desc>
+    <link href="https://agrisneltank.nl/">
+      <text>https://agrisneltank.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>79532a09-129a-4e1c-a226-afcf5554b9a4</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.341211560" lon="5.133304109">
+    <time>2023-04-06T11:49:56Z</time>
+    <name>Marina Muiderzand</name>
+    <desc>Marina Muiderzand, Marinaweg 26, 1361 AC Almere
+Diesel, Benzine
+Tel: 036 - 5369151
+</desc>
+    <link href="https://www.marinaparcs.nl/marina-muiderzand">
+      <text></text>
+    </link>
+    <link href="https://www.marinaparcs.nl/marina-muiderzand">
+      <text>https://www.marinaparcs.nl/marina-muiderzand</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7e9a2487-4f26-4f39-9c0b-73b166c81769</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.832060000" lon="4.962590000">
+    <time>2023-04-07T09:31:38Z</time>
+    <name>LUKOIL express</name>
+    <desc>LUKOIL express, Schelluinsestraat 1-3, 4203 NJ Gorinchem
+Aanmeren in de vluchthaven, 500 meter 
+Diesel, Benzine
+
+
+
+</desc>
+    <link href="http://www.lukoil.nl/go/lukoil_station.cfm?id=435">
+      <text>http://www.lukoil.nl/go/lukoil_station.cfm?id=435</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>41e99183-96dc-491a-98af-01de019f0f48</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.009190000" lon="6.054220000">
+    <time>2023-04-07T09:40:07Z</time>
+    <name>BP - Moll</name>
+    <desc>BP - Moll, Wetterkant 2, 8401 GC Gorredijk
+Aanleggen vlakbij brug Overtoom, 200 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0513 - 657010</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/gorredijk/bp-slump-oil-moll/820989015">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/gorredijk/bp-slump-oil-moll/820989015</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4ccc71f7-4703-4de4-9089-8e446789866e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.011190000" lon="4.693380000">
+    <time>2023-04-07T09:50:51Z</time>
+    <name>PitPoint</name>
+    <desc>PitPoint, Industriestraat 1, 2802 AC Gouda
+Aanleggen Goudkade, 20 meter
+Diesel, Benzine
+24h open 
+Tel: 030 - 4100800</desc>
+    <link href="https://www.pitpointcleanfuels.com/nl/">
+      <text>https://www.pitpointcleanfuels.com/nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1808c5ad-7959-49b6-a38b-c7d202922992</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.759830000" lon="5.735830000">
+    <time>2023-04-07T09:59:51Z</time>
+    <name>EasyFill Grave</name>
+    <desc>EasyFill Grave, Trompetterstraat 46-48, 5361 ER Grave
+Aanleggen WSV de Stuw, 300 meter
+Diesel, Benzine
+Tel: 0486 - 422177
+
+</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>592b6272-77a2-4fcd-bca3-5a3d34ede828</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.780900000" lon="4.621780000">
+    <time>2023-04-07T10:13:11Z</time>
+    <name>Berkman 's Gravendeel </name>
+    <desc>Berkman 's Gravendeel , Havenstraat 1, 3295 XJ 's-Gravendeel
+Anleggen in vluchthaven, 400 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 078 - 6736713</desc>
+    <link href="https://www.berkman.nl/tankstations/berkmansgravendeel/?utm_source=google&amp;utm_medium=mijnbedrijf&amp;utm_campaign=tankstation&amp;utm_term=berkman-sgravendeel">
+      <text>https://www.berkman.nl/tankstations/berkmansgravendeel/?utm_source=google&amp;utm_medium=mijnbedrijf&amp;utm_campaign=tankstation&amp;utm_term=berkman-sgravendeel</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6bc47a31-f682-432e-9b8d-1c4839b4a003</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.236175000" lon="6.525140000">
+    <time>2023-04-07T10:20:47Z</time>
+    <name>Jachthaven Reitdiep</name>
+    <desc>Jachthaven Reitdiep, Reitdiephaven 151, 9745 CP Groningen
+Staande mast route, tanken op E-steiger
+Diesel
+Tel: 050 - 2801155</desc>
+    <link href="http://www.jachthavenreitdiep.nl/">
+      <text>http://www.jachthavenreitdiep.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1e9770fb-1e26-46a7-9665-548b539ffa7c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.923160000" lon="4.815940000">
+    <time>2023-04-07T10:26:11Z</time>
+    <name>Esso Mons</name>
+    <desc>Esso Mons, Sluis 18, 2964 AR Groot-Ammers
+Aanleggen kade met siloś, 300 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0184 - 663574</desc>
+    <link href="https://www.esso.nl/nl-nl/find-station/ESSO-GROOTAMMERS-ESSOMONSGROOTAMMERS-100361530?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb">
+      <text>https://www.esso.nl/nl-nl/find-station/ESSO-GROOTAMMERS-ESSOMONSGROOTAMMERS-100361530?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>773bfb91-e2cf-4653-9e5c-a00820a0b0f7</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.095620000" lon="5.844180000">
+    <time>2023-04-07T10:34:58Z</time>
+    <name>Watersportbedrijf Anja</name>
+    <desc>Watersportbedrijf Anja, Meersweg 9A, 9001 BG Grou
+Diesel, Benzine
+Tel: 0566 - 621373</desc>
+    <link href="http://www.wsbanja.nl/">
+      <text>http://www.wsbanja.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>740e64d3-67db-4665-9adf-f6334bb2670a</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.006076667" lon="4.720820000">
+    <time>2023-04-07T12:16:50Z</time>
+    <name>Esso Stolwijkersluis</name>
+    <desc>Esso Stolwijkersluis, Schoonhovenseweg 2, 2808 NP Gouda
+Aanmeren vlakbij Haastrechtsebrug, 100 meter
+Diesel, Benzine
+Open van 6:00 - 00:00
+Tel: 0182 - 512983</desc>
+    <link href="https://www.esso.nl/nl-nl/find-station/ESSO-GOUDA-EssoStolwijkersluis-100175352?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb">
+      <text>https://www.esso.nl/nl-nl/find-station/ESSO-GOUDA-EssoStolwijkersluis-100175352?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>31151ce5-bd9b-4275-a4a8-132d0b39a4f9</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.384581667" lon="5.633911667">
+    <time>2023-04-07T12:35:33Z</time>
+    <name>Jachthaven Flevostrand</name>
+    <desc>Jachthaven Flevostrand, Strandweg 1, 8256 RZ Biddinghuizen
+Diesel
+Tel: 0320 - 288480</desc>
+    <link href="https://www.molecaten.nl/flevostrand/jachthaven">
+      <text>https://www.molecaten.nl/flevostrand/jachthaven</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>790c7bb5-93c0-4c96-bd29-ec4627e4d0e7</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.820103333" lon="4.846130000">
+    <time>2023-04-07T12:43:00Z</time>
+    <name>Dekker&amp;Stam Bunkerstation</name>
+    <desc>Dekker&amp;Stam Bunkerstation, Langeveer 1, 3371 MD Hardinxveld-Giessendam
+Aanmeren pleziervaart aan de binnenkant dwarssteiger
+Esso Diesel Plus
+Open 7:00 - 18:00
+Tel: 0184 - 612223
+</desc>
+    <link href="http://www.dekker-stam.nl/">
+      <text>http://www.dekker-stam.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>68efde29-c49c-4a7f-af50-d67b54fadb2c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.174560000" lon="5.452998333">
+    <time>2023-04-07T12:52:45Z</time>
+    <name>Multiship Holland</name>
+    <desc>Multiship Holland, Kanaalweg 33 Harlingen
+Diesel, Benzine, GTL, HV07
+24h open zelfbediening
+Tel: 0517 - 235857</desc>
+    <link href="https://www.multishipholland.nl/">
+      <text>https://www.multishipholland.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5878ad1e-6d8b-4dca-bba7-810a50c7baa7</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.980111667" lon="5.890208333">
+    <time>2023-04-07T13:04:14Z</time>
+    <name>Jachthaven de Welle</name>
+    <desc>Jachthaven de Welle, Wetterwille 35, 8447 GB Heerenveen
+Diesel
+Tel: 06 - 27400694
+</desc>
+    <link href="http://www.watersportverenigingnannewijd.nl/">
+      <text>http://www.watersportverenigingnannewijd.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>22a73716-982b-4c3e-a755-7eb365b177b8</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.594318333" lon="6.087090000">
+    <time>2023-04-07T13:07:59Z</time>
+    <name>Jachthaven de Molenwaard</name>
+    <desc>Jachthaven de Molenwaard, Van Nahuysweg 151, 8061 EZ Hasselt
+Diesel, Benzine
+Tel: 038 - 4771651</desc>
+    <link href="http://www.molenwaard.nl/">
+      <text>http://www.molenwaard.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7f5d8462-91e0-41d5-b025-de6c16d6715d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.967845000" lon="5.610805000">
+    <time>2023-04-07T13:15:45Z</time>
+    <name>Jachthaven Eendracht</name>
+    <desc>Jachthaven Eendracht, It Eilan 68, 8621 CT Heeg
+Diesel, Benzine
+Tel: 0515 - 442575</desc>
+    <link href="http://jachthaveneendracht.nl/">
+      <text>http://jachthaveneendracht.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>275d0e40-cab3-4d76-a08f-37f667f8b3ab</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.962875000" lon="4.781175000">
+    <time>2023-04-07T13:35:25Z</time>
+    <name>KMJC Haven</name>
+    <desc>KMJC Haven, Bevesierweg Harssens Schiereiland Den Helder
+Diesel
+VHF 31
+Tel: 0889 - 561250
+</desc>
+    <link href="https://www.kmjc.eu">
+      <text>https://www.kmjc.eu</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6fe90d6b-0e72-49e7-907c-87b1467078a3</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.739753333" lon="5.149895000">
+    <time>2023-04-07T13:44:02Z</time>
+    <name>Maritiem Centrum Heusden</name>
+    <desc>Maritiem Centrum Heusden, Bakkersdam 9, 5256 PK Heusden
+Diesel, Benzine, GTL
+Tel: 0416 - 661399</desc>
+    <link href="https://maritiemcentrumheusden.nl/">
+      <text>https://maritiemcentrumheusden.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>11eef284-08bc-4e70-a9a0-8aae08527d96</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.220901667" lon="5.137591667">
+    <time>2023-04-07T13:54:06Z</time>
+    <name>Shell Express</name>
+    <desc>Shell Express, Vreelandseweg 62 NZ, 1216 CH Hilversum
+Aanmeren aan kade, 50 meter
+Diesel, Benzine
+24h open (PIN), onbemand 
+Tel: 0900 - 2022710
+</desc>
+    <link href="https://find.shell.com/nl/fuel/10045490-shell-express-hilversm-west-nz">
+      <text>https://find.shell.com/nl/fuel/10045490-shell-express-hilversm-west-nz</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7b57ea4c-0962-4c07-b49b-bddd731f6ec9</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.944696667" lon="5.403356667">
+    <time>2023-04-07T14:03:11Z</time>
+    <name>Jachthaven Hindeloopen</name>
+    <desc>Jachthaven Hindeloopen, Oosterstrand 3, 8713 JS Hindeloopen
+Diesel, Benzine, GTL
+Tel: 088 - 0504140</desc>
+    <link href="http://jachthavenhindeloopen.nl/">
+      <text>http://jachthavenhindeloopen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>60727718-9c4b-43ec-9067-9162181c71c3</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.728848333" lon="6.498971667">
+    <time>2023-04-07T14:11:15Z</time>
+    <name>Hoogeveen Yachting</name>
+    <desc>Hoogeveen Yachting, Dr. Anton Philipsstraat 44, 7903 AM Hoogeveen
+Diesel
+Tel: 0528 - 275410</desc>
+    <link href="https://hoogeveenyachting.nl/">
+      <text>https://hoogeveenyachting.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7b2801c2-c958-402a-95d7-7a113372c9ba</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.634706667" lon="5.063350000">
+    <time>2023-04-07T14:22:39Z</time>
+    <name>Atalanta Watersport</name>
+    <desc>Atalanta Watersport, Schuijteskade 6 a, 1621 DE Hoorn
+Diesel, Campinggaz
+Tel: 0229 - 215250</desc>
+    <link href="http://www.atalantewatersport.nl/">
+      <text>http://www.atalantewatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>29e3e749-01c3-43c6-b70a-223770690367</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.309783333" lon="5.248076667">
+    <time>2023-04-07T14:30:33Z</time>
+    <name>Jachthaven Huizerhoofd</name>
+    <desc>Jachthaven Huizerhoofd, Ambachtsweg 65, 1271 AL Huizen
+Diesel, Benzine
+Tel: 035 - 5258622</desc>
+    <link href="http://www.jachthavenhuizen.nl/">
+      <text>http://www.jachthavenhuizen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>55b372ee-ace5-4176-a1b6-cd7e4bc0cbec</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.929395000" lon="5.708783333">
+    <time>2023-04-07T14:36:31Z</time>
+    <name>Jachthaven Idskenhuizen</name>
+    <desc>Jachthaven Idskenhuizen, Mastersein 12, 8523 NK Idskenhuizen
+Diesel, Benzine
+Tel: 0513 - 431846</desc>
+    <link href="https://www.rp-idskenhuizen.nl">
+      <text>https://www.rp-idskenhuizen.nl</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>28c5c278-8b5d-4dc0-9228-91ac1107beea</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.073615000" lon="5.803320000">
+    <time>2023-04-07T14:44:13Z</time>
+    <name>Marina Jirnsum</name>
+    <desc>Marina Jirnsum, Industriewei 2, 9011 WH Irnsum
+Diesel
+Tel: 0515 - 432993
+Buiten seizoen zondags gesloten</desc>
+    <link href="https://marinajirnsum.nl/">
+      <text>https://marinajirnsum.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4753bf9b-230e-4248-84eb-52722d8cd08f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.219000000" lon="4.559726667">
+    <time>2023-04-07T18:00:06Z</time>
+    <name>Wansem Service Centrum</name>
+    <desc>Wansem Service Centrum, Huigsloterdijk 400  Buitenkaag
+Diesel, Benzine, 2-takt
+Tel: 0252 - 544264</desc>
+    <link href="https://bslwatersport.nl/">
+      <text>https://bslwatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>11c7cbdb-395d-4bfd-8610-9f095f7bac07</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.568676667" lon="5.897893333">
+    <time>2023-04-07T18:06:04Z</time>
+    <name>Bunkerstation Kampen</name>
+    <desc>Bunkerstation Kampen, Werfweg 12, 8263 BD Kampen
+Diesel, Benzine
+Tel: 038 - 3313632</desc>
+    <link href="http://www.bunkerstation.nl/">
+      <text>http://www.bunkerstation.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5fc82236-5399-4dd4-88a1-34a0480c20d2</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.789920783" lon="5.337400983">
+    <time>2023-04-06T11:36:17Z</time>
+    <name>Jachthaven de Maas</name>
+    <desc>Jachthaven de Maas,Jan Klingenweg 3, 5335 JK Alem
+Diesel
+Tel: 0418 - 661524
+</desc>
+    <link href="http://www.jachthaven-demaas.nl/">
+      <text>http://www.jachthaven-demaas.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>747f6498-c469-4d70-a12b-66ac66d36cbf</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.776995000" lon="5.338071667">
+    <time>2023-04-07T18:25:50Z</time>
+    <name>Watersport Center Kerkdriel</name>
+    <desc>Watersport Center Kerkdriel, Maasbandijk 1a, 5331 KB Kerkdriel
+Benzine, 2-takt
+Tel: 0418 - 631004</desc>
+    <link href="http://www.watersportcenterkerkdriel.nl/">
+      <text>http://www.watersportcenterkerkdriel.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5a89e219-1eb2-43b6-ae0d-36073d8bee88</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.794503333" lon="4.892360000">
+    <time>2023-04-07T18:37:00Z</time>
+    <name>Watersport Kolhorn</name>
+    <desc>Watersport Kolhorn, Westfriesedijk 66b, 1767 CS Kolhorn
+Diesel, Benzine, Gasflessen
+Tel: 0224 - 531988
+Maandag                                Op afspraak
+Dinsdag                                  Op afspraak
+Woensdag                            10.00 - 17.00 uur
+Donderdag                           Op afspraak
+Vrijdag                                   Op afspraak
+Zaterdag                              10.00 - 17.00 uur
+Zondag                                  12.00 - 17.00 uur
+</desc>
+    <link href="http://www.watersportkolhorn.com/">
+      <text>http://www.watersportkolhorn.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>404c41c5-d193-43b5-ad92-2dd0775dad5b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.317610836" lon="6.166853128">
+    <time>2023-04-06T21:43:10Z</time>
+    <name>Jachthaven Lunegat</name>
+    <desc>Jachthaven Lunegat, 9291 MD Kollum
+Diesel
+Tel: 0511 - 408303</desc>
+    <link href="https://www.lunegat.nl/">
+      <text>https://www.lunegat.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0e14855a-a730-4bba-8b81-99f979b0850c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.459356667" lon="4.811771667">
+    <time>2023-04-07T18:47:14Z</time>
+    <name>TotalEnergies</name>
+    <desc>TotalEnergies, Zuideinde 110, 1541 CG Koog aan de Zaan
+Direct aan de waterkant
+Diesel, Benzine
+Tel: 020 - 5112226</desc>
+    <link href="https://services.totalenergies.nl/tankstations-services/vind-een-tankstation-van-totalenergies">
+      <text>https://services.totalenergies.nl/tankstations-services/vind-een-tankstation-van-totalenergies</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>29e80e64-7eff-4505-93d2-72db6de50ba2</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.553520000" lon="3.810260000">
+    <time>2023-04-07T18:52:21Z</time>
+    <name>Delta Marina</name>
+    <desc>Delta Marina, Veerdam 3 4484 NV KORTGENE
+Diesel, Benzine (zelfservice PIN)
+Tel: 0113 - 307 171
+</desc>
+    <link href="https://www.deltamarina.nl/">
+      <text>https://www.deltamarina.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>39f3f7c6-a77a-4be2-a9c5-9f982b910eb4</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.815820000" lon="4.659850000">
+    <time>2023-04-06T22:00:18Z</time>
+    <name>Bunkerstation Delta</name>
+    <desc>Bunkerstation Delta, Hooikade 3, 3311 CD Dordrecht
+Diesel, GTL
+Tel: 078 - 6135544</desc>
+    <link href="https://www.bunkerstationdelta.nl/">
+      <text>https://www.bunkerstationdelta.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>248db480-7c8b-4e54-bdaf-d98864647bf5</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.756843333" lon="5.849556667">
+    <time>2023-04-07T18:58:26Z</time>
+    <name>HM Yachtrental</name>
+    <desc>HM Yachtrental, Keersluisweg 15, 5433 NM Katwijk
+Diesel
+Tel: 06-14519499
+Beperkte openingstijden vooraf bellen</desc>
+    <link href="https://www.hm-yachtrental.nl/">
+      <text>https://www.hm-yachtrental.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>69b0f296-d59e-4239-94a7-35ef40b9a3c0</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.717460000" lon="4.694551667">
+    <time>2023-04-07T21:54:37Z</time>
+    <name>Watersport Service Creeze</name>
+    <desc>Watersport Service Creeze, Biesboschweg 3, 4926 SJ Lage Zwaluwe
+Diesel, Benzine
+Tel: 0168 - 482356
+Dinsdag en zondag gesloten</desc>
+    <link href="https://crezeewatersport.nl/">
+      <text>https://crezeewatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2455fb77-3495-4d6c-8231-1bae081f4ea2</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.873006667" lon="5.823636667">
+    <time>2023-04-07T22:01:00Z</time>
+    <name>Tankstation Slump</name>
+    <desc>Tankstation Slump, Turfkade 5, 8539 SV Echtenerbrug
+Direct aan het water
+Diesel, Benzine
+Tel: 0514 - 541264</desc>
+    <link href="https://www.tankstationnetje.nl/echtenerbrug/slump-tankstation-en-watersport">
+      <text>https://www.tankstationnetje.nl/echtenerbrug/slump-tankstation-en-watersport</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>57d17383-1907-454f-8d4f-7f3d6477fa5c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.960646667" lon="5.743643333">
+    <time>2023-04-07T22:06:54Z</time>
+    <name>Jachthaven Langweerderwielen</name>
+    <desc>Jachthaven Langweerderwielen, Wielenlaan 19, 8526 GE Boornzwaag
+Diesel
+Tel: 0513 - 499998</desc>
+    <link href="http://www.jachthavenlangweerderwielen.nl/">
+      <text>http://www.jachthavenlangweerderwielen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4295306b-46a4-4305-8708-6ef36775c94b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.406321667" lon="6.206981667">
+    <time>2023-04-07T22:16:41Z</time>
+    <name>Jachthaven Noordergat</name>
+    <desc>Jachthaven Noordergat, Noordergat 1 9976 VR Lauwersoog
+Pomp bij loods andere kant haven
+GTL (Diesel) 
+zelfservice(PIN)
+Tel: 0519 - 34 90 40</desc>
+    <link href="https://www.noordergat.nl/">
+      <text>https://www.noordergat.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4e296717-57d8-41d3-9ee8-73b106a7523b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.895390000" lon="5.094693333">
+    <time>2023-04-07T22:29:30Z</time>
+    <name>Esso Leerdam</name>
+    <desc>Esso Leerdam, Parallelweg 4A, 4143 LA Leerdam
+Aanmeren WSV de Oude Horn, 500 meter
+24h open (PIN)
+Diesel, Benzine
+Tel: 0345 - 619843</desc>
+    <link href="https://www.esso.nl/nl-nl/find-station/ESSO-LEERDAM-ESSOLEERDAM-100359860?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb">
+      <text>https://www.esso.nl/nl-nl/find-station/ESSO-LEERDAM-ESSOLEERDAM-100359860?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>23bf19c5-afad-4056-90e3-7dc2494214a2</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.199328333" lon="5.830398333">
+    <time>2023-04-07T22:37:43Z</time>
+    <name>Leeuwarder Jachthaven</name>
+    <desc>Leeuwarder Jachthaven, Jachthavenlaan 3, 8937 AM Leeuwarden
+Diesel, Gasflessen
+Tel: 05821 - 25759
+</desc>
+    <link href="https://www.leeuwarderjachthaven.nl/">
+      <text>https://www.leeuwarderjachthaven.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0acc6e7e-9970-42c2-84b2-8812091586d7</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.198550000" lon="5.832725000">
+    <time>2023-04-07T22:44:17Z</time>
+    <name>Hemrik Marine</name>
+    <desc>Hemrik Marine, Junokade 2, 8938 AC Leeuwarden
+Diesel, Benzine
+Tel: 058 - 2880007</desc>
+    <link href="http://www.hemrikmarine.nl/">
+      <text>http://www.hemrikmarine.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>00f8d6b8-074f-4b1a-874e-8e200770ddb9</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.195585000" lon="5.769340000">
+    <time>2023-04-07T22:48:33Z</time>
+    <name>Tamoil Express</name>
+    <desc>Tamoil Express, Zwettestraat 12, 8912 AH Leeuwarden
+Aanmeren in kalkhaven
+Diesel, Benzine
+24h open (PIN)
+Tel: 088 - 4007300</desc>
+    <link href="https://tamoil.nl/">
+      <text>https://tamoil.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2ac89b91-fd13-4dcc-b155-7fa048565530</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.149835000" lon="4.534793333">
+    <time>2023-04-07T22:54:04Z</time>
+    <name>WSV de Doeshaven</name>
+    <desc>WSV de Doeshaven, Boomgaardlaan 16, 2351 CR Leiderdorp
+Diesel, Gasfles
+Tel: 071 - 8890067
+1-11 tot 1-4 alleen op afspraak</desc>
+    <link href="http://www.doeshaven.nl/">
+      <text>http://www.doeshaven.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1ef6e49c-f351-4dfb-85a2-9e510acb139d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.080858333" lon="4.400506667">
+    <time>2023-04-07T23:02:47Z</time>
+    <name>Service Center Van Zelst</name>
+    <desc>Service Center Van Zelst, Leidsekade 26, 2266 BH Leidschendam
+Diesel
+Tel: 070 - 3010237</desc>
+    <link href="http://www.vanzelstgarage.nl/">
+      <text>http://www.vanzelstgarage.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>43a19a58-1c14-481a-9cb5-4add310beada</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.552093333" lon="5.460088333">
+    <time>2023-04-07T23:14:41Z</time>
+    <name>Flevo Marina</name>
+    <desc>Flevo Marina, Overstag 20, 8221 RG Lelystad
+Diesel, Benzine, GTL
+Tel:  088 - 05 04 180</desc>
+    <link href="https://www.flevomarina.com/">
+      <text>https://www.flevomarina.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>33fe79d6-d2ee-4442-aad9-4f5e788557b1</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.851233333" lon="5.683625000">
+    <time>2023-04-07T23:21:45Z</time>
+    <name>Watersportcentrum Tacozijl</name>
+    <desc>Watersportcentrum Tacozijl, Plattedijk 20, 8531 PE Lemmer
+Diesel, Benzine
+Tel: 0514 - 562003</desc>
+    <link href="http://www.yachtcharter-lemmer.nl/">
+      <text>http://www.yachtcharter-lemmer.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>14190d37-dd7e-4feb-bdda-ddb937d3ab71</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.843235000" lon="5.704461667">
+    <time>2023-04-07T23:26:20Z</time>
+    <name>Watersportcentrum Lemmer</name>
+    <desc>Watersportcentrum Lemmer, 
+Diesel
+Tel: 0514 - 560880</desc>
+    <link href="http://watersportcentrumlemmer.nl/contact/">
+      <text>http://watersportcentrumlemmer.nl/contact/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>17bf5188-5d5a-4054-ad50-9e4f796c3485</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.225133333" lon="4.979475000">
+    <time>2023-04-08T00:34:43Z</time>
+    <name>Marina Wilgenhoek</name>
+    <desc>Marina Wilgenhoek, Groenlandsekade 9-13, 3645 BA Vinkeveen
+Diesel, Benzine, 2-takt
+Tel: 0294 - 291842
+zondag gesloten</desc>
+    <link href="http://www.de-wilgenhoek.nl/">
+      <text>http://www.de-wilgenhoek.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>79d64d0d-3ca0-486f-ba58-b0880be5f03f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.225730000" lon="4.925840000">
+    <time>2023-04-08T00:38:49Z</time>
+    <name>Jachthaven Omtzigt</name>
+    <desc>Jachthaven Omtzigt, Achterbos 24A, 3645 CD Vinkeveen
+Diesel, Benzine, 2-takt, Gasflessen
+Tel: 0297 - 261038</desc>
+    <link href="http://www.omtzigt.nl/">
+      <text>http://www.omtzigt.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>071cb8f3-fb65-49e3-b6ce-ee2670128356</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.201529973" lon="5.063799010">
+    <time>2023-04-08T00:46:25Z</time>
+    <name>West End Marina</name>
+    <desc>West End Marina, Veendijk 21, 1231 PD Loosdrecht
+Diesel, Benzine
+Maandag gesloten
+Tel: 06 - 41174770</desc>
+    <link href="http://westendmarina.nl/contact">
+      <text>http://westendmarina.nl/contact</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5449f066-3d84-412f-901b-d11b2744a667</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.139378333" lon="5.871990000">
+    <time>2023-04-08T12:21:18Z</time>
+    <name>van der Laan Yachting</name>
+    <desc>van der Laan Yachting, Oude Maasweg 4-14, 6051 LV Maasbracht
+GTL(diesel)
+Tel: 0475 - 466430
+</desc>
+    <link href="http://www.vanderlaanyachting.nl/">
+      <text>http://www.vanderlaanyachting.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6b062c9d-c499-4be4-8d3e-f7c917a732e7</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.147160000" lon="5.880750000">
+    <time>2023-04-08T12:27:12Z</time>
+    <name>Oliehandel Tullemans</name>
+    <desc>Oliehandel Tullemans, Bunkerhaven 18, 6051 LR Maasbracht
+Diesel
+Tel: 0475 - 464985
+zondag gesloten</desc>
+    <link href="https://www.tullemansbv.nl/">
+      <text>https://www.tullemansbv.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>13011063-2b81-4dfe-aaac-d4dc6ec291cd</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="50.853998333" lon="5.694968333">
+    <time>2023-04-08T12:32:42Z</time>
+    <name>Bunkerschip Jansen</name>
+    <desc>Bunkerschip Jansen, Maaspromenade 7A01, 6211 HS Maastricht
+Diesel
+Tel: 043 - 3212941</desc>
+    <link href="http://www.nauticajansen.nl/">
+      <text>http://www.nauticajansen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>767ba27f-2b73-45b0-b614-cade4af37742</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.053955000" lon="5.385738333">
+    <time>2023-04-08T12:41:07Z</time>
+    <name>Marina Makkum</name>
+    <desc>Marina Makkum, Suderseewei 6-8, 8754 GK Makkum
+Diesel, Benzine, GTL
+Zelfservice (PIN)
+Tel: 0515 - 232828</desc>
+    <link href="http://www.marinamakkum.nl/">
+      <text>http://www.marinamakkum.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0ba78da0-719d-42b6-ac36-4e9a1d14eba8</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.502460000" lon="6.586691667">
+    <time>2023-04-08T12:50:06Z</time>
+    <name>Texaco Express</name>
+    <desc>Texaco Express, Kloosterdijk 27, 7692 PH Marienberg
+Diesel, Benzine
+24h open (PIN)
+Tel: 0523 - 251246</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3a5f59ce-4664-4978-9a71-777522d8febb</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.973205000" lon="5.431856667">
+    <time>2023-04-08T12:54:25Z</time>
+    <name>Jachthaven Eiland van Maurik</name>
+    <desc>Jachthaven Eiland van Maurik, Eiland van Maurik 4, 4021 GG Maurik
+Diesel, Benzine
+Tel: 0344 - 691502</desc>
+    <link href="https://www.jachthaveneilandvanmaurik.nl/">
+      <text>https://www.jachthaveneilandvanmaurik.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0f3d4e0b-4c52-4337-99a8-6adb012d48b4</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.771860000" lon="5.109576667">
+    <time>2023-04-08T12:57:50Z</time>
+    <name>Kool&amp;Co</name>
+    <desc>Medemblik Petrol Station, Oosterhaven 24, 1671AB Medemblik
+Diesel, Benzine, Flessengas
+Tel: 0227 - 541265
+Zondag (zomerseizoen) 10:00-12:00</desc>
+    <link href="http://www.koolmedemblik.nl/">
+      <text>http://www.koolmedemblik.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3135bbc8-5694-499e-8f82-7f506323f451</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.694276667" lon="6.172156667">
+    <time>2023-04-08T13:07:29Z</time>
+    <name>Bunkerboot Leusink</name>
+    <desc>Bunkerboot Leusink, Zomerdijk 27a, 7942 JS Meppel
+Diesel, GTL
+Tel: 0522 - 745470</desc>
+    <link href="https://safetyserviceleusink.nl/?utm_source=Google%20Mijn%20Bedrijf%20Lokaal&amp;utm_medium=organic&amp;utm_campaign=GMB">
+      <text>https://safetyserviceleusink.nl/?utm_source=Google%20Mijn%20Bedrijf%20Lokaal&amp;utm_medium=organic&amp;utm_campaign=GMB</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4aef0222-4a2e-4c2e-acbb-6ee44d444a00</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.499300000" lon="3.624770000">
+    <time>2023-04-08T13:12:27Z</time>
+    <name>Jos Boone Watersport</name>
+    <desc>Jos Boone Watersport, Maisbaai 1, 4331 HJ Middelburg
+Diesel, GTL
+Tel: 0118 - 629913</desc>
+    <link href="http://www.josboone.nl/">
+      <text>http://www.josboone.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>79018695-bd7f-44b2-a604-3e2a00c14a95</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.167486667" lon="7.035380000">
+    <time>2023-04-08T13:16:08Z</time>
+    <name>Jachthaven Midwolda</name>
+    <desc>Jachthaven Midwolda, Redersplein 6, 9685 AW Blauwestad
+Diesel, Benzine
+Tel: 06 - 15444290</desc>
+    <link href="http://www.jachthavensblauwestad.nl/">
+      <text>http://www.jachthavensblauwestad.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3ae4e5b5-b5a0-4734-9402-6a6b76a663f9</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.742728333" lon="4.244321667">
+    <time>2023-04-08T13:21:52Z</time>
+    <name>Jachthaven Atlantica</name>
+    <desc>Jachthaven Atlantica, Zeedijk 54 56, 3243 LG Stad aan 't Haringvliet
+Diesel
+Tel: 0187 - 612524</desc>
+    <link href="http://www.jachthaven-atlantica.nl/">
+      <text>http://www.jachthaven-atlantica.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5514f42f-d546-4fa6-8d2c-c9462dfc0e42</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.870105640" lon="6.042793859">
+    <time>2023-04-08T13:24:30Z</time>
+    <name>Bunkerstation Heymen</name>
+    <desc>Bunkerstation Heymen, Loswal 5, 6566 CH Millingen aan de Rijn
+Diesel, Benzine
+Tel: 0481 - 438310</desc>
+    <link href="https://www.bunkerstationheijmen.nl/">
+      <text>https://www.bunkerstationheijmen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>56f186c7-4896-4240-8392-7e6e787718ad</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.054906667" lon="5.001438333">
+    <time>2023-04-08T13:32:46Z</time>
+    <name>TinQ</name>
+    <desc>TinQ, Achthoven Oost 20, 3417 PC Montfoort
+Aanmeren achter woning
+Diesel, Benzine
+24h open (PIN)
+Tel: 0900 - 2358467</desc>
+    <link href="https://www.tinq.nl/tankstation?id=427">
+      <text>https://www.tinq.nl/tankstation?id=427</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1d2e0ef6-094d-4e2e-88f6-c9a464c09987</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.333070000" lon="5.070705000">
+    <time>2023-04-08T13:43:05Z</time>
+    <name>Jachthaven Stichting Muiden</name>
+    <desc>Jachthaven Stichting Muiden, Herengracht 3, 1398 AA Muiden
+Diesel, Benzine
+Tel: 06 - 13398388</desc>
+    <link href="http://jachthavenmuiden.nl/">
+      <text>http://jachthavenmuiden.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0e0b14a0-09bc-4d74-b264-d3863907491a</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.310841667" lon="5.144610000">
+    <time>2023-04-08T13:49:33Z</time>
+    <name>Jachthaven Naarden</name>
+    <desc>Jachthaven Naarden, IJsselmeerweg 6 1411 LV Naarden
+Diesel, Benzine
+Tel: 035 - 6956050</desc>
+    <link href="http://www.jachthavennaarden.nl/">
+      <text>http://www.jachthavennaarden.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>37ebec6a-7232-464f-aa7b-847d19908c55</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.174728333" lon="5.001875000">
+    <time>2023-04-08T14:07:13Z</time>
+    <name>Shell Breukelen-dorp</name>
+    <desc>Shell Breukelen-dorp, Straatweg 109, 3621 BK Breukelen
+Aanmeren aan kade 50 meter
+Diesel, Benzine
+Tel: 0346 - 263944</desc>
+    <link href="https://find.shell.com/nl/fuel/10030651-shell-station-breukelen-dorp">
+      <text>https://find.shell.com/nl/fuel/10030651-shell-station-breukelen-dorp</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2008f165-8728-486f-9c90-05e46712bac9</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.708060000" lon="4.819095000">
+    <time>2023-04-08T14:40:34Z</time>
+    <name>Jachthaven de Roskam</name>
+    <desc>Jachthaven de Roskam, De Wuijver 9, 1723 LJ Noord-Scharwoude
+Diesel
+Tel: 0226-341264</desc>
+    <link href="http://www.hoogeboomwatersport.nl">
+      <text>http://www.hoogeboomwatersport.nl</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7a8d1af6-d969-4034-8942-bee83c4ff429</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.269110000" lon="5.534920000">
+    <time>2023-04-08T14:49:16Z</time>
+    <name>Gulf Nulde</name>
+    <desc>Gulf Nulde, Strandboulevard 15, 3882 RN Putten
+Aanmeren jachthaven Nulde, 75 meter
+Diesel, Benzine, 2-takt
+Tel: 0341 - 351414</desc>
+    <link href="http://www.jemie.nl/">
+      <text>http://www.jemie.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0575d5d2-a63c-41af-ba18-b7fe127bbd9d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.720801667" lon="4.418763333">
+    <time>2023-04-08T14:53:46Z</time>
+    <name>Marina Numansdorp</name>
+    <desc>Marina Numansdorp, Veerweg 7, 3281 LX Numansdorp
+Diesel (HVO)
+Tel: 0186 - 650415</desc>
+    <link href="http://www.marina-numansdorp.nl/">
+      <text>http://www.marina-numansdorp.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>49f79ed0-3c7c-4818-868a-54bb0cd32545</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.256041667" lon="5.466301667">
+    <time>2023-04-08T14:57:20Z</time>
+    <name>Jachthaven de Zuidwal</name>
+    <desc>Jachthaven de Zuidwal, Hulckesteijn 4, 3861 MZ Nijkerk
+Diesel, Benzine
+Voor tanken bellen  06-24898909
+</desc>
+    <link href="https://www.dezuidwal.nl/">
+      <text>https://www.dezuidwal.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>01470976-c233-4d68-8249-55d84f6400df</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.851990000" lon="5.852220000">
+    <time>2023-04-08T15:01:08Z</time>
+    <name>Bunkerstation Heijmen</name>
+    <desc>Bunkerstation Heijmen, Havenweg 18, 6541 AD Nijmegen
+Diesel, GTL
+Tel: 024 - 3774852
+</desc>
+    <link href="https://neptunheijmen.nl/">
+      <text>https://neptunheijmen.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6d2107ee-5bbc-4ced-8f35-ad212c35bd94</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.383685000" lon="6.157850000">
+    <time>2023-04-08T15:16:09Z</time>
+    <name>Jachthaven Lauwersmeer</name>
+    <desc>Jachthaven Lauwersmeer, Oostmahorn 31 a, 9133 DT Eanjum
+Diesel
+Tel: 0511 - 408100</desc>
+    <link href="http://www.jachthavenlauwersmeer.nl/">
+      <text>http://www.jachthavenlauwersmeer.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3be8abda-6c0a-410b-8212-42ba7ec043e8</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.016496667" lon="4.878240000">
+    <time>2023-04-08T15:30:22Z</time>
+    <name>De Rolaf</name>
+    <desc>De Rolaf, Damweg 2, 3421 GS Oudewater
+Aanmeren kade Willeskop, 100 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0341 - 369912</desc>
+    <link href="http://www.derolaf.nl/">
+      <text>http://www.derolaf.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>155b6888-fab8-4278-be37-7a90625b40b6</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.823571667" lon="4.694203333">
+    <time>2023-04-08T15:36:53Z</time>
+    <name>Bunkerschip Papendrecht</name>
+    <desc>Bunkerschip Papendrecht, Merwedesingel 48, 3353 GN Papendrecht
+Diesel
+Tel: 078 - 6411111
+Zondag gesloten</desc>
+    <link href="https://bunkerstationpapendrecht.nl/">
+      <text>https://bunkerstationpapendrecht.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>60e9aac4-cf4b-4e5c-8491-5bc50380af16</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.022806562" lon="5.481531603">
+    <time>2023-04-08T15:41:17Z</time>
+    <name>AmiGo Parrega</name>
+    <desc>AmiGo Parrega, Trekweg 4a, 8763 ME Parrega
+Aanmeren kade trekweg, 300 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0575 - 517957</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6d6e4a0d-b19d-45c9-b40d-12b7423d74e2</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.160181667" lon="6.564746667">
+    <time>2023-04-08T15:45:58Z</time>
+    <name>Jachthaven Zuidwesthoek</name>
+    <desc>Jachthaven Zuidwesthoek, Meerweg 247, 9752 XD Haren
+Diesel, Benzine
+Tel: 050 - 3094444</desc>
+    <link href="http://www.jachthavenzuidwesthoek.nl/">
+      <text>http://www.jachthavenzuidwesthoek.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>21405bfe-bfd8-4ce6-ba2c-adf11e878986</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.761541667" lon="3.858135000">
+    <time>2023-04-08T15:48:57Z</time>
+    <name>Marina port Zelande</name>
+    <desc>Marina port Zelande, Kabbelaarsbank 5, 3253 ME Ouddorp
+Diesel, Benzine
+VHF 31
+Tel: 0111 - 671920</desc>
+    <link href="https://www.mpz.nl/">
+      <text>https://www.mpz.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1f153e2e-f0ac-4a8f-a8ea-5d0713c3ae0f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.508163333" lon="4.943295000">
+    <time>2023-04-08T15:57:19Z</time>
+    <name>Avia Purmerend</name>
+    <desc>Avia Purmerend, Tramplein 15, 1441 GP Purmerend
+Direct tanken aan het water!!
+Diesel, Benzine
+Tel: 0299 - 424745</desc>
+    <link href="https://avia.nl/tankstations/detail/avia-purmerend-tramplein/">
+      <text>https://avia.nl/tankstations/detail/avia-purmerend-tramplein/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>114d9eba-d797-4c3d-a4a6-ca9a5467fdba</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.705960000" lon="4.864208333">
+    <time>2023-04-08T17:43:33Z</time>
+    <name>Bunkercentrum Dongemond</name>
+    <desc>Bunkercentrum Dongemond, Rivierkade 4, 4931 AA Geertruidenberg
+Diesel, Benzine
+Tel: 0162 - 512642
+Zondags gesloten</desc>
+    <link href="http://www.bunkercentrumdongemond.nl/">
+      <text>http://www.bunkercentrumdongemond.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3a6bb22d-159f-47dc-b5e1-9bf360b21964</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.518240000" lon="5.436930000">
+    <time>2023-04-08T17:53:28Z</time>
+    <name>OK Marine</name>
+    <desc>OK Marine, Bataviahaven 1 8242 PR Lelystad
+24h open Zelfbediening (PIN) ponton
+Diesel, GTL
+Tel: 0320 - 748052</desc>
+    <link href="https://ok-marine.nl/">
+      <text>https://ok-marine.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>55360452-5a71-4dbc-86dd-e8a92c089088</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.844151667" lon="4.423760000">
+    <time>2023-04-08T18:06:05Z</time>
+    <name>Jachthaven Rhoon</name>
+    <desc>Rhoonse Jachthaven, Havendam 23, 3161 XB Rhoon
+Diesel, Benzine
+Tel: 010 - 5012270</desc>
+    <link href="https://www.jachthavenrhoon.nl/">
+      <text>https://www.jachthavenrhoon.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>06ea0767-7942-419f-92b8-6a83582964c8</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.592405000" lon="3.717723333">
+    <time>2023-04-08T18:12:42Z</time>
+    <name>Roompot Marina</name>
+    <desc>Roompot Marina, Sophia Boulevard 23a, 4493 PL Kamperland
+Diesel, Benzine
+Tel: 0113 - 405110
+</desc>
+    <link href="http://roompotmarina.com/">
+      <text>http://roompotmarina.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4908d3be-7139-4a3d-8786-221a5e34fedf</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.910425000" lon="4.500060000">
+    <time>2023-04-08T18:17:03Z</time>
+    <name>Rotterdam Marina</name>
+    <desc>Rotterdam Marina, Rijksboom 90, 3071 AX Rotterdam
+Alleen PIN/Creditcard
+Diesel, Benzine
+Tel: 010 - 4854096
+24-12 tot 1-1 geopend op afspraak</desc>
+    <link href="http://www.rotterdammarina.com/">
+      <text>http://www.rotterdammarina.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3482fd7d-be0d-4dce-9318-ab890cd19639</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.895508333" lon="4.218305000">
+    <time>2023-04-08T18:26:00Z</time>
+    <name>WSV Nautica</name>
+    <desc>WSV Nautica, Visserijweg 9, 3231 NE Brielle
+Diesel, Benzine
+Tel: 06 - 30015308</desc>
+    <link href="http://wsv-nautica.nl/">
+      <text>http://wsv-nautica.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7b173b65-9433-41b4-b40c-513715d98e44</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.946255000" lon="5.781740000">
+    <time>2023-04-08T18:32:03Z</time>
+    <name>AVIA Xpress </name>
+    <desc>AVIA Xpress, Hollandiastraat 19, 8517 HC Scharsterbrug
+Aanmeren bij brug, 80 meter
+Diesel, Benzine
+Tel: 088 - 1344000</desc>
+    <link href="http://www.aviaweghorst.nl/">
+      <text>http://www.aviaweghorst.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7d4bcd69-0f00-4d86-8888-8f254d8ac962</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.098910000" lon="4.268300000">
+    <time>2023-04-08T18:40:21Z</time>
+    <name>Bunkerboot GEO</name>
+    <desc>Bunkerboot GEO, Dr. Lelykade 4800, 2583 AA Den Haag
+Diesel
+Tel: 06 - 25593581
+</desc>
+    <link href="http://www.geobv.nl/">
+      <text>http://www.geobv.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2044fe84-f9a8-4b68-926a-75a56cc2582e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.976000000" lon="4.311750000">
+    <time>2023-04-08T18:44:13Z</time>
+    <name>TotalEnergies Express</name>
+    <desc>TotalEnergies Express, Dorpsstraat 56, 2636 CJ Schipluiden
+Aanmeren kade voor de tankstation
+Diesel, Benzine
+Tel: 015 - 3809932</desc>
+    <link href="https://services.totalenergies.nl/">
+      <text>https://services.totalenergies.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>78dde0e0-97c0-45ee-9a55-13bd3719e02f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.612378333" lon="5.746911667">
+    <time>2023-04-08T20:43:50Z</time>
+    <name>Marina Schokkerstrand</name>
+    <desc>Marina Schokkerstrand, Schokkerhaven, 8308 PX Nagele
+Diesel, Benzine
+Tel: 06 - 46104780</desc>
+    <link href="http://www.jachtservice.com/">
+      <text>http://www.jachtservice.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0d550821-e992-428c-adb6-969945f36dae</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.913851667" lon="5.739880000">
+    <time>2023-04-08T20:55:13Z</time>
+    <name>WSV Sint Nicolaasga</name>
+    <desc>WSV Sint Nicolaasga, Westend 23, 8521 NP Sint Nicolaasga
+Diesel
+Tel: 0513 - 431706</desc>
+    <link href="http://www.wsv-stnic.nl/">
+      <text>http://www.wsv-stnic.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>163731e3-6ce3-47e5-91c9-a61f7d45d31b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.022623333" lon="5.695321667">
+    <time>2023-04-08T21:07:37Z</time>
+    <name>Brandsma Jachtservice</name>
+    <desc>Brandsma Jachtservice, Eeltjebaasweg 6, 8606 KA Sneek
+GTL(Diesel)
+Tel: 0515 - 425000
+</desc>
+    <link href="https://www.brandsmajachten.nl/">
+      <text>https://www.brandsmajachten.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1205b578-f91e-4650-b951-d20a1c2e2ab5</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.026698333" lon="5.663960000">
+    <time>2023-04-08T21:14:27Z</time>
+    <name>Aquanaut Yachting</name>
+    <desc>Aquanaut Yachting, Selfhelpweg 9, 8607 AB Sneek
+Diesel
+Tel: 0515 - 412253</desc>
+    <link href="http://www.aquanaut.nl/">
+      <text>http://www.aquanaut.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6e51d072-9531-4cf0-aa3a-e328022e0469</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.429908333" lon="4.712736667">
+    <time>2023-04-08T21:21:38Z</time>
+    <name>WSV IJmond</name>
+    <desc>WSV IJmond, Buitenhuizerweg 9, 1981 LK Velsen-Zuid
+Diesel
+Tel: 023 - 5375003</desc>
+    <link href="https://www.wvijmond.nl/">
+      <text>https://www.wvijmond.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>12a13d48-200e-46a0-800a-a92d76be5eca</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.255360000" lon="5.381700000">
+    <time>2023-04-08T21:25:17Z</time>
+    <name>WSV de Eendracht</name>
+    <desc>WSV de Eendracht, Kerkemaat 12, 3751 AH Bunschoten-Spakenburg
+Diesel
+Tel: 06 - 53126633
+</desc>
+    <link href="http://www.wsvdeeendracht.nl/">
+      <text>http://www.wsvdeeendracht.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6065e0a0-3fc7-4963-acac-31493f2b8f42</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.820486667" lon="4.051165000">
+    <time>2023-04-08T21:36:16Z</time>
+    <name>Marina Stellendam</name>
+    <desc>Marina Stellendam, Deltahaven 61, 3251 LC Stellendam
+Diesel, Benzine
+Tel: 0187 - 493769</desc>
+    <link href="https://www.marinastellendam.nl/">
+      <text>https://www.marinastellendam.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3b4d0dbf-d768-48e2-9ad0-2f334a31b74c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.238704410" lon="6.218088400">
+    <time>2023-04-06T15:56:07Z</time>
+    <name>Nautic Stroobos</name>
+    <desc>Nautic Stroobos, Groningerstreek 30, 9871 PG Stroobos
+Diesel, Benzine, Jerrycan
+Tel: 0512 - 352414</desc>
+    <link href="http://nautic-stroobos.nl/">
+      <text>http://nautic-stroobos.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0d1c21d3-8b68-4041-9e0a-8f113dc70689</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.714405000" lon="4.587891667">
+    <time>2023-04-08T21:47:22Z</time>
+    <name>Jachthaven Strijensas</name>
+    <desc>Jachthaven Strijensas, Sassedijk 6, 3292 LD Strijensas
+Diesel (HVO)
+Tel: 078 - 6742182</desc>
+    <link href="http://www.jachthavenstrijensas.nl/">
+      <text>http://www.jachthavenstrijensas.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>683d4375-ecd8-4d5a-b50d-83fb1ad4c629</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.574560000" lon="5.649620000">
+    <time>2023-04-08T21:55:29Z</time>
+    <name>OK Express</name>
+    <desc>OK Express, De Kolk 29, 8255 PE Swifterbant
+Aanmeren WSV Swift, 500 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 076 - 2079909</desc>
+    <link href="https://ok.nl/tankstations/ok-swifterbant/">
+      <text>https://ok.nl/tankstations/ok-swifterbant/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0b443cc6-2d2a-4326-966d-9c8962472fea</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.561170000" lon="4.739590000">
+    <time>2023-04-06T11:07:12Z</time>
+    <name>Alkmaarse Zeil- en Motorbootafdeling</name>
+    <desc>Alkmaarse Roei- en zeilvereniging, Klaashoorn 1
+Noordwesten van het Alkmaardermeer
+Diesel, Benzine
+</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>492f0d0d-86ac-41e4-87b1-c6550046c25f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.602244613" lon="5.585931923">
+    <time>2023-04-06T11:43:28Z</time>
+    <name>Almelose WSV</name>
+    <desc>Almelose WSV, Buitenhaven Westzijde 2, 7604 PK Almelo
+Diesel
+Tel: 0546 - 571455
+</desc>
+    <link href="http://www.awvalmelo.nl/">
+      <text>http://www.awvalmelo.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3a9ff203-c544-46eb-884c-88d12755c6aa</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.656230000" lon="4.796630000">
+    <time>2023-04-06T16:14:33Z</time>
+    <name>Argos Berenkoog</name>
+    <desc>Argos Berenkoog, Berenkoog 66, 1822 BZ Alkmaar
+Aanleggen vlakbij brug , 200 meter
+Diesel, Benzine Jerrycan
+24h open
+Tel: 088 - 4720300</desc>
+    <link href="https://www.argos.nl/tankstation/argos-alkmaar-berenkoog/">
+      <text>https://www.argos.nl/tankstation/argos-alkmaar-berenkoog/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4ca46f7e-f856-4e13-9b0b-06216aa56daf</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.666390000" lon="6.736310000">
+    <time>2023-04-06T19:55:43Z</time>
+    <name>Argos Coevorden</name>
+    <desc>Argos Coevorden, Stationsstraat 1, 7741 EK Coevorden
+aanleggen in de passantenhaven Coevorden, 20 meter
+Diesel, Benzine
+24h (PIN) onbemand
+Tel: 0881 - 007222</desc>
+    <link href="https://vandenbelttankstations.nl/tankstation/argos-coevorden/">
+      <text>https://vandenbelttankstations.nl/tankstation/argos-coevorden/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>24ee7092-ab3c-4cb0-b703-f60f4e7f709c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.529290000" lon="5.643230000">
+    <time>2023-04-06T13:58:08Z</time>
+    <name>AVIA Beek en Donk</name>
+    <desc>AVIA Beek en Donk, Brugstraat 2, 5741 GT Beek en Donk
+Aanleggen bij restaurant ¨Eeterij Uniek" 50 meter naar de hoofdweg
+Diesel, Benzine, Jerrycan
+Tel: 0492 - 468095</desc>
+    <link href="https://avia.nl/tankstations/avia-beek-en-donk">
+      <text>https://avia.nl/tankstations/avia-beek-en-donk</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4d91b02c-f0f0-4993-a45c-551541fbfb91</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.860310000" lon="4.660595000">
+    <time>2023-04-06T11:23:02Z</time>
+    <name>Bootservice Korteland</name>
+    <desc>Bootservice J. Korteland b.v., Polderstraat 9a
+30 meter van de waterkant
+Diesel, Benzine
+Tel: 078 - 6914897</desc>
+    <link href="https://jankorteland.nl/">
+      <text>https://jankorteland.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>24c3d91e-2fd1-471e-9f3d-1d2516d5d46b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.972680000" lon="5.931460000">
+    <time>2023-04-06T13:40:52Z</time>
+    <name>BP </name>
+    <desc>BP, Snelliusweg 30, 6827 DH Arnhem
+Vanuit jachthaven Valkenburg 200 meter
+Diesel, Benzine, Jerrycan
+24h open
+Tel: 0800 - 2727270</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/arnhem/47725-bp-express-snelliusweg/1677267815">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/arnhem/47725-bp-express-snelliusweg/1677267815</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>59223a6e-b103-4e4e-9bd2-0ea654cf53a3</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.220526667" lon="6.237251667">
+    <time>2023-04-06T16:01:44Z</time>
+    <name>BP - BovenKarspel</name>
+    <desc>BP - BovenKarspel, Florasingel 1, 1611 GA Bovenkarspel
+Aanleggen bij WSV-de Broekerhaven, 500 meter
+Diesel, Benzine, Jerrycan
+Tel: 0228 - 513655</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/bovenkarspel/bp-flora/4642">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/bovenkarspel/bp-flora/4642</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>74cb8d72-e029-4ea6-bb4b-29215fe7ab10</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.942380000" lon="4.495250000">
+    <time>2023-04-06T14:23:37Z</time>
+    <name>Tamoil Tankstation</name>
+    <desc>Tamoil Tankstation, Boezembocht 14, 3034 KA Rotterdam
+Aanleggen Jachthaven Valkhof 100 meter
+Diesel, Benzine, Jerrycan
+24h geopend
+Tel: 010 - 2810676
+
+</desc>
+    <link href="https://tamoil.nl/">
+      <text>https://tamoil.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4a207a1b-14d4-4580-90b7-4ca44356a2de</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.597680000" lon="4.769640000">
+    <time>2023-04-06T15:08:56Z</time>
+    <name>AVIA Xpress</name>
+    <desc>AVIA Xpress, Belcrumweg 44382, 4815 HA Breda
+Aanleggen Jachthaven de Werve, 200 meter
+Diesel, Benzine, Jerrycan
+24h open
+Tel: 070 - 3811822
+</desc>
+    <link href="http://www.abmy.nl/">
+      <text>http://www.abmy.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>764cd1d3-5568-4fd8-abf6-0cc107876f53</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.042500000" lon="5.775980000">
+    <time>2023-04-09T00:13:12Z</time>
+    <name>Marina de Horne</name>
+    <desc>Marina de Horne, Syl 12, 8493 LL Terherne
+Diesel
+Tel: 0566 - 769009</desc>
+    <link href="https://www.terhernenautic.nl/">
+      <text>https://www.terhernenautic.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5217f2a1-9325-406e-8b2e-6d832a2314b8</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.302120000" lon="7.035041667">
+    <time>2023-04-09T00:23:59Z</time>
+    <name>Jachthaven Termunterzijl</name>
+    <desc>Jachthaven Termunterzijl, Plankpad 7, 9948 PK Termunterzijl
+Diesel
+Tel: 06 - 22735613</desc>
+    <link href="https://waterkaart.net/gids/jachthaven.php?naam=Jachthaven-Termunterzijl">
+      <text>https://waterkaart.net/gids/jachthaven.php?naam=Jachthaven-Termunterzijl</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3a4790dd-6b13-418a-8f2e-830e28b16f53</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.364990000" lon="5.221510000">
+    <time>2023-04-09T00:28:36Z</time>
+    <name>Jachthaven Terschelling</name>
+    <desc>Jachthaven Terschelling, 8881 EG West-Terschelling
+Diesel
+Tel: 0562 - 443337</desc>
+    <link href="http://www.jachthaventerschelling.nl/">
+      <text>http://www.jachthaventerschelling.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2b5d454d-acb7-4dc6-af43-4565187ce833</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.862915000" lon="6.080768333">
+    <time>2023-04-09T00:32:12Z</time>
+    <name>Tankstation de Bijland</name>
+    <desc>Tankstation de Bijland, Bijland 1A, 6916 KA Tolkamer
+Diesel, Benzine
+Tel: 0316 - 542958</desc>
+    <link href="http://www.ts-debijland.nl/">
+      <text>http://www.ts-debijland.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>68dc93db-4ffc-485b-a752-9bca30c78603</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.229986667" lon="4.835053333">
+    <time>2023-04-09T00:43:01Z</time>
+    <name>Esso Express</name>
+    <desc>Esso Express, Mijdrechtse Zuwe 45, 1427 AV Amstelhoek
+Aanmeren ZO brug, 200 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 088 - 3130000</desc>
+    <link href="https://www.esso.nl/nl-nl/find-station/ESSO-AMSTELHOEK-ESSOEXPRESSAMSTELHOEK-100175316?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb">
+      <text>https://www.esso.nl/nl-nl/find-station/ESSO-AMSTELHOEK-ESSOEXPRESSAMSTELHOEK-100175316?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>32587b15-bfac-4ad4-8952-9b424a4990ec</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.891111667" lon="6.387726667">
+    <time>2023-04-09T00:49:30Z</time>
+    <name>OQ Value</name>
+    <desc>OQ Value, Oversluis 5, 7071 DA Ulft
+Aanmeren NO Brug, 100 meter
+Diesel, Benzine
+Tel: 0315 - 681710</desc>
+    <link href="https://www.oqvalue.nl/tankstations/tankstations-achterhoek/">
+      <text>https://www.oqvalue.nl/tankstations/tankstations-achterhoek/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4053011b-08c6-48d8-b473-aa63226e7da4</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.660780000" lon="5.598100000">
+    <time>2023-04-09T00:54:04Z</time>
+    <name>Gemeente Haven Urk</name>
+    <desc>Gemeente Haven Urk, Burgemeester J. Schipperkade, 8321 EJ Urk
+Diesel, Benzine
+Tel:  0527 - 689 970
+
+</desc>
+    <link href="www.havendiensturk.nl&#10;">
+      <text>www.havendiensturk.nl
+</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>50e6a012-2d72-463f-b8d9-d40553ef8bde</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.096310000" lon="5.078768333">
+    <time>2023-04-09T01:01:51Z</time>
+    <name>Markus Winkelboot</name>
+    <desc>Markus Winkelboot, Keulsekade 400 t/o 143, 3531 JZ Utrecht
+Diesel
+Tel: 030 - 2439210</desc>
+    <link href="http://www.markus-bv.nl/">
+      <text>http://www.markus-bv.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0e821f44-196b-48d8-ae69-e1336b163047</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.616493333" lon="5.520811667">
+    <time>2023-04-09T02:42:45Z</time>
+    <name>Shell</name>
+    <desc>Shell, Ncb-Laan 117, 5462 GC Veghel
+Diesel, Benzine
+Aanmere Haven Veghel, 500 meter
+24h open (PIN)
+Tel: 0413 - 377818</desc>
+    <link href="https://find.shell.com/nl/fuel/12242828-shell-schimmel-veghel">
+      <text>https://find.shell.com/nl/fuel/12242828-shell-schimmel-veghel</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>73c8f4e5-9bd3-4198-98b6-c5fd553415f9</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.445648333" lon="5.802525000">
+    <time>2023-04-09T02:52:00Z</time>
+    <name>Jachthaven Riviere Beach</name>
+    <desc>Jachthaven Riviere Beach, Spijkweg 15, 8256 RJ Biddinghuizen
+Diesel, Benzine
+Tel: 0321 - 331344</desc>
+    <link href="http://europarcs.nl/">
+      <text>http://europarcs.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3c879c99-2697-4673-b0e9-bfaa7dc16712</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.297234744" lon="5.090273390">
+    <time>2023-04-09T02:59:52Z</time>
+    <name>Pompstation Vlieland</name>
+    <desc>Pompstation Vlieland, Fortweg 1, 8899 BC Oost-Vlieland
+Diesel, Benzine
+24h open (PIN)</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0aafe202-0683-424c-8a59-15e03ebd89e4</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.450770000" lon="3.579560000">
+    <time>2023-04-09T03:10:20Z</time>
+    <name>TinQ</name>
+    <desc>TinQ, Paul Krugerstraat 237, 4382 MH Vlissingen
+Aanmeren Jachthaven Schelde, 500 meter
+24h open (PIN)
+Diesel, Benzine
+Tel: 0341 - 439000</desc>
+    <link href="https://www.tinq.nl/">
+      <text>https://www.tinq.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>25953492-f56b-4723-b391-e8bb25451a6b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.016150000" lon="5.102100000">
+    <time>2023-04-09T03:24:23Z</time>
+    <name>TinQ</name>
+    <desc>TinQ, Nijverheidsweg 16, 3433 NP Nieuwegein
+Aanmeren rond brug, 500 meter
+Diesel, Benzine
+Tel: 030 - 6080288</desc>
+    <link href="http://www.tinq.nl/">
+      <text>http://www.tinq.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>23c27801-aeb8-44f1-9392-7ec128fdc36e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.015728333" lon="5.121026667">
+    <time>2023-04-09T03:32:06Z</time>
+    <name>BP de Kroon</name>
+    <desc>BP de Kroon, Rijksweg A27, 3433 NW Nieuwegein
+Aanmeren rond brug, 500 meter
+Diesel, Benzine
+24h open, ook BurgerKing!!
+Tel: 030 - 6060106
+</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/nieuwegein/bp-de-kroon/5107">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/nieuwegein/bp-de-kroon/5107</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>7ca3932d-7d65-4892-b2a3-0f061153e605</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.461576667" lon="6.574748333">
+    <time>2023-04-09T03:39:59Z</time>
+    <name>Argos Vroomshoop</name>
+    <desc>Argos Vroomshoop, Tonnendijk 12-16, 7681 BN Vroomshoop
+Anmeren rond brug, 100 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 088 - 1007222</desc>
+    <link href="https://www.argos.nl/tankstation/argos-vroomshoop/">
+      <text>https://www.argos.nl/tankstation/argos-vroomshoop/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>470da8a1-ceb0-4e2a-a3d4-c077568f9d3c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.961165000" lon="5.650740000">
+    <time>2023-04-09T10:50:58Z</time>
+    <name>TinQ</name>
+    <desc>TinQ, Nude 23-A, 6702 DJ Wageningen
+Aanmeren kade ´t Stek, 500 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0900 - 2358467</desc>
+    <link href="https://www.tinq.nl/">
+      <text>https://www.tinq.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>37a2e315-2cb0-433b-a11a-62e26e7b9003</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.537435000" lon="6.077735000">
+    <time>2023-04-09T11:09:29Z</time>
+    <name>Jachthaven Wanssum</name>
+    <desc>Jachthaven Wanssum, Geijsterseweg 8, 5861 BL Wanssum
+Diesel, Benzine
+Tel: 06 - 14032056</desc>
+    <link href="http://jachthavenwanssum.nl/">
+      <text>http://jachthavenwanssum.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>69019a91-83b3-4c38-ad81-395601e40dab</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.195988333" lon="4.535581667">
+    <time>2023-04-09T11:13:47Z</time>
+    <name>Van Schie Watersport</name>
+    <desc>Van Schie Watersport, Zijldijk 11, 2362 AE Warmond
+Diesel, Benzine, GTL
+Tel: 071 - 5892894
+December, Januari, Februari gesloten</desc>
+    <link href="http://www.vanschiewatersport.nl/">
+      <text>http://www.vanschiewatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>35d3c77f-e94c-47ab-aaa3-ffa8071f175d</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.149930000" lon="5.906763333">
+    <time>2023-04-09T11:25:02Z</time>
+    <name>Jachthaven Wartena</name>
+    <desc>Jachthaven Wartena, Bùtenstreek 3, 9003 MC Warten
+Diesel, Benzine, GTL, Campinggas
+Tel: 058 - 2551870
+1-11 tot 8-4 zaterdags en zondags gesloten</desc>
+    <link href="http://www.jachthavenwartena.nl/">
+      <text>http://www.jachthavenwartena.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2491eb0d-e58e-46f3-8620-de606b9ab3c3</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.162311667" lon="5.931808333">
+    <time>2023-04-09T11:29:41Z</time>
+    <name>Pander Tankstation</name>
+    <desc>Pander Tankstation, Stûkenwei 5-B, 9003 XS Warten
+Diesel, Benzine, GTL
+Tel: 06 - 53887170</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>361114e7-4834-4c63-9b74-9f9e1e488088</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.691786667" lon="4.982315000">
+    <time>2023-04-09T11:37:15Z</time>
+    <name>TinQ Waspik</name>
+    <desc>TinQ Waspik, Waspiksedijk 1, 5161 NR Sprang-Capelle
+Aanmeren Jachthaven Aquapelle, 200 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0900 - 2358467</desc>
+    <link href="https://www.tinq.nl/">
+      <text>https://www.tinq.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>47557d6e-0281-4988-a086-45c046c28d1e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.217270000" lon="5.584443333">
+    <time>2023-04-09T11:42:37Z</time>
+    <name>TotalEnergies Lingen</name>
+    <desc>TotalEnergies Lingen, Kempenweg 110, 6002 SX Weert
+Aanmeren kade voor de deur
+Diesel, Benzine
+24h open (PIN)
+Tel: 0495 - 518222</desc>
+    <link href="https://services.totalenergies.nl/">
+      <text>https://services.totalenergies.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>03e84b52-7f16-414d-b368-38f90f09f0ef</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.151740000" lon="5.843350000">
+    <time>2023-04-09T11:49:46Z</time>
+    <name>TinQ</name>
+    <desc>TinQ, Nieuwe Leeuwarderweg 1, 9005 NH Wergea
+Aanmeren kade de Marren (na brug) 50 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0900 - 2358467</desc>
+    <link href="http://www.tinq.nl/">
+      <text>http://www.tinq.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>061c49c6-38a2-4c52-951e-f3450e055457</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.806140000" lon="4.877020000">
+    <time>2023-04-09T12:00:12Z</time>
+    <name>Bunkerstation Werkendam</name>
+    <desc>Bunkerstation Werkendam, Biesboschhaven Zuid 20
+4251 NN Werkendam
+Diesel, Benzine, GTL
+Tel:  06 53 39 64 10</desc>
+    <link href="https://www.kieboomwerkendam.nl/">
+      <text>https://www.kieboomwerkendam.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1f5979d0-d1a6-433f-aa1a-8fa3431e86b3</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.227653333" lon="4.685481667">
+    <time>2023-04-09T12:05:10Z</time>
+    <name>Jachthaven Kempers</name>
+    <desc>Jachthaven Kempers, Herenweg 100, 1431 GX Aalsmeer
+Diesel, Benzine
+Tel: 0172 - 503000</desc>
+    <link href="http://www.kemperswatersport.nl/">
+      <text>http://www.kemperswatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>475f6bca-2f42-42cd-9d32-dc553f0c013c</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.695586667" lon="4.441718333">
+    <time>2023-04-09T12:25:50Z</time>
+    <name>Bunkerservice Hellemons</name>
+    <desc>Bunkerservice Hellemons, Havenhoofd 1a, 4797 SR Willemstad
+Diesel, Benzine
+Tel: 06 - 51608380
+Zondag gesloten</desc>
+    <link href="http://www.bunkerservicewillemstad.com/">
+      <text>http://www.bunkerservicewillemstad.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5bfbca34-2216-4b9d-bfa1-9cea19a02859</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.086570000" lon="4.863070000">
+    <time>2023-04-09T12:30:41Z</time>
+    <name>Texaco </name>
+    <desc>Texaco, Leidsestraatweg 132, 3443 BZ Woerden
+Aanmeren in de Vecht, 100 meter
+Diesel, Benzine
+Tel: 0800 - 4446676
+</desc>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>04c88642-d5e2-4154-960e-7da6359304dd</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.967611667" lon="5.420085000">
+    <time>2023-04-09T12:53:13Z</time>
+    <name>Jachthaven it Soal</name>
+    <desc>Jachthaven it Soal, Suderséleane 25, 8711 GX Workum
+Diesel, GTL
+Tel: 0515 - 542937</desc>
+    <link href="http://www.itsoal.nl/">
+      <text>http://www.itsoal.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>165b803c-70eb-4730-ab42-7a700b1f88c4</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.181390000" lon="4.632570000">
+    <time>2023-04-09T12:58:08Z</time>
+    <name>Bunkerstation van Leersum</name>
+    <desc>Bunkerstation van Leersum, Boddens Hosangweg 118-A/B, 2481 LB Woubrugge
+Diesel, Benzine, GTL, Campinggas
+Tel: 0172 - 519329
+16-10 tot 20-4 in het weekend gesloten</desc>
+    <link href="http://www.vanleersum.com/">
+      <text>http://www.vanleersum.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>2e36c71b-0a14-4c7c-aa39-5f4a044b1c21</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.944853333" lon="5.633385000">
+    <time>2023-04-09T13:07:16Z</time>
+    <name>Schraa Watersport</name>
+    <desc>Schraa Watersport, De Zwaan 2, 8551 RK Woudsend
+Diesel
+Tel: 0514 - 591776
+Zondag gesloten</desc>
+    <link href="http://www.schraawatersport.nl/">
+      <text>http://www.schraawatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>358d0d8a-3ba0-46ae-a35d-924b716ced46</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.498203333" lon="4.053943333">
+    <time>2023-04-09T18:48:17Z</time>
+    <name>Steijn Oliehandel</name>
+    <desc>Steijn Oliehandel, Meerpaalweg 20, 4401 KA Yerseke
+Diesel
+Tel: 0113 - 571334</desc>
+    <link href="https://www.schuttevaer.nl/branchegids/id454976-oliehandel-steijn-b-v.html">
+      <text>https://www.schuttevaer.nl/branchegids/id454976-oliehandel-steijn-b-v.html</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>5301c419-9ba4-444a-b2ca-807b4acec869</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.458810000" lon="4.561270000">
+    <time>2023-04-09T18:57:50Z</time>
+    <name>Marina Seaport</name>
+    <desc>Marina Seaport, Kennemerboulevard 540, 1976 EM IJmuiden
+Diesel, Benzine
+Tel: 0255 - 560300
+VHF 74</desc>
+    <link href="http://www.marinaseaport.nl/">
+      <text>http://www.marinaseaport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>68185bdf-1cbc-4513-864b-261664d4a60b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.558373333" lon="5.925593333">
+    <time>2023-04-09T19:07:38Z</time>
+    <name>Esso Vermeulen</name>
+    <desc>Esso Vermeulen, Spoorstraat 10, 8271 RH IJsselmuiden
+Aanmeren WSV IJsselmuiden, 200 meter
+Diesel, Benzine, GTL
+24h open (PIN)
+Tel: 038 - 3314361</desc>
+    <link href="https://www.esso.nl/nl-nl/find-station/ESSO-IJSSELMUIDEN-ESSOSPOORSTRAAT-100342970?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb">
+      <text>https://www.esso.nl/nl-nl/find-station/ESSO-IJSSELMUIDEN-ESSOSPOORSTRAAT-100342970?utm_source=google&amp;utm_medium=organic&amp;utm_campaign=gmb</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>09d7c7e9-551f-4724-acd1-2fc1251b3abf</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.021063333" lon="5.051975000">
+    <time>2023-04-09T19:15:15Z</time>
+    <name>BP</name>
+    <desc>BP, Utrechtseweg 36A, 3402 PL IJsselstein
+Aanmeren vlakbij brug, 200 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 088 - 3130000</desc>
+    <link href="https://map.bp.com/nl-NL/NL/tankstation/ijsselstein/bp-express-ijsselstein/471599545">
+      <text>https://map.bp.com/nl-NL/NL/tankstation/ijsselstein/bp-express-ijsselstein/471599545</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>764c1644-7735-4c45-a747-d7ca4dc6a77b</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.425705000" lon="4.835515000">
+    <time>2023-04-09T19:37:38Z</time>
+    <name>Oliehandel van Meegen</name>
+    <desc>Oliehandel van Meegen, Havenstraat 109-R, 1506 PM Zaandam
+Diesel, Benzine, GTL, Gasflessen
+Tel: 06 - 10990385
+van 7-10 tot 15-4 in het weekend gesloten</desc>
+    <link href="https://www.antonvanmegen.com/">
+      <text>https://www.antonvanmegen.com/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0513a1be-33dd-41b1-afcf-e5fb31960844</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.816153333" lon="5.249875000">
+    <time>2023-04-09T19:50:34Z</time>
+    <name>Slurink BV</name>
+    <desc>Slurink BV, Waalkade 47, 5301 CH Zaltbommel
+Diesel, Benzine
+Tel: 0418 - 512660
+Zondag gesloten</desc>
+    <link href="https://www.slurink.nl/netwerk/zaltbommel/">
+      <text>https://www.slurink.nl/netwerk/zaltbommel/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>4ced10b8-6676-48c9-aa83-cddd384672ad</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.646967749" lon="3.921995096">
+    <time>2023-04-09T20:09:03Z</time>
+    <name>Bouwman Watersport</name>
+    <desc>Bouwman Watersport, Nieuwe Haven 83, 4301 DK Zierikzee
+Diesel, GTL
+Tel: 0111 - 413265
+</desc>
+    <link href="https://www.bouwmanwatersport.nl/">
+      <text>https://www.bouwmanwatersport.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>67789067-f3f3-4a36-a249-515a47a23552</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.340871667" lon="6.294403333">
+    <time>2023-04-09T20:18:48Z</time>
+    <name>Jachthaven Hunzegat</name>
+    <desc>Jachthaven Hunzegat, Strandweg 17, 9974 SM Zoutkamp
+Diesel, Campinggas
+Tel: 0595 - 402875</desc>
+    <link href="http://www.hunzegat.nl/">
+      <text>http://www.hunzegat.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0d49791c-811b-497a-87f7-85c03763209f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.805780000" lon="4.263838333">
+    <time>2023-04-09T20:47:22Z</time>
+    <name>WSV Blickvliet</name>
+    <desc>WSV Blickvliet, Krommedijk 15A, 3214 LH Zuidland
+Diesel
+Tel: 06 - 23248312</desc>
+    <link href="http://www.blinckvliet.nl/">
+      <text>http://www.blinckvliet.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>1fa0ece7-5d8c-4a54-8991-4c057cc9f47e</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.143673333" lon="6.190296667">
+    <time>2023-04-09T20:52:51Z</time>
+    <name>Shell </name>
+    <desc>Shell, Stationsplein 30, 7201 ML Zutphen
+Aanmeren voor brug, 50 meter
+Diesel, Benzine
+24h open (PIN)
+Tel: 0900 - 2022710</desc>
+    <link href="https://find.shell.com/nl/fuel/10030496-shell-express-zutphen">
+      <text>https://find.shell.com/nl/fuel/10030496-shell-express-zutphen</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3075f442-3200-4cc0-ba98-558932687195</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="53.241976667" lon="6.018690000">
+    <time>2023-04-09T21:04:00Z</time>
+    <name>Jachthaven Kuikhorne</name>
+    <desc>Jachthaven Kuikhorne, Kûkhernsterwei 31, 9271 HD De Westereen
+Diesel, Benzine
+Tel: 0511 - 472775
+</desc>
+    <link href="https://jachthavenkuikhorne.nl/">
+      <text>https://jachthavenkuikhorne.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>0dd54c50-2367-455d-aa17-0f94669e3509</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="52.644930000" lon="6.086875000">
+    <time>2023-04-09T21:11:48Z</time>
+    <name>Jachthaven de Kranerweerd</name>
+    <desc>Jachthaven de Kranerweerd, Het Oude Diep 5 - 7, 8064 PN Zwartsluis
+Diesel, Benzine
+Tel: 038 - 3867351
+24h open (PIN)</desc>
+    <link href="http://www.kranerweerd.nl/">
+      <text>http://www.kranerweerd.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>3037334e-60ee-4c80-bbe1-35fb41163bcc</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <wpt lat="51.916683333" lon="4.499548333">
+    <time>2023-04-09T21:20:03Z</time>
+    <name>Bunkerrama</name>
+    <desc>Bunkerrama, Maaskade 33, 3071 NB Rotterdam
+Diesel
+Tel: 010 - 4111873</desc>
+    <link href="https://atlantic-horizon.nl/">
+      <text>https://atlantic-horizon.nl/</text>
+    </link>
+    <sym>Service-Fuel-Pump-Diesel</sym>
+    <type>WPT</type>
+    <extensions>
+      <opencpn:guid>6d2d3d00-bbbc-40f2-9a19-fb453182b88f</opencpn:guid>
+      <opencpn:arrival_radius>0.050</opencpn:arrival_radius>
+      <opencpn:waypoint_range_rings visible="false" number="0" step="1" units="0" colour="#FF0000" />
+      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+    </extensions>
+  </wpt>
+  <trk>
+    <extensions>
+      <opencpn:guid>38a53974-1dc6-472a-83cd-69ba700fb89d</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2023-04-05T07:20:59Z</time>
+      </trkpt>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2023-04-05T07:21:16Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <extensions>
+      <opencpn:guid>1d46e22f-5be4-47a4-a9b9-ebb86ba23b73</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2023-04-08T10:29:15Z</time>
+      </trkpt>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2023-04-08T14:03:19Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <extensions>
+      <opencpn:guid>0ccdbe6c-cdd2-42e5-90a5-bbc8156d8f63</opencpn:guid>
+      <opencpn:viz>1</opencpn:viz>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2023-04-08T20:00:33Z</time>
+      </trkpt>
+      <trkpt lat="33.358000000" lon="-79.282000000">
+        <time>2023-04-08T20:00:34Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
